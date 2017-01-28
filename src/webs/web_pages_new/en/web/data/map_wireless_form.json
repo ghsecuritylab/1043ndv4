@@ -1,0 +1,25 @@
+{
+	"timeout": false,
+	"success": true,
+	"data":{
+		"wlan_2g_ssid": "TP-LINK_C8_2G",
+		"wlan_2g_pwd": "1234567890",
+		"wlan_2g_channel": "Auto",
+		"wlan_2g_macAddr": "00-11-22-33-44-55",
+		
+		"wlan_5g_ssid": "TP-LINK_C8_5G",
+		"wlan_5g_pwd": "0987654321",
+		"wlan_5g_channel": "Auto",
+		"wlan_5g_macAddr": "11-22-33-44-55-66",
+		
+		"guest_2g_status": "On",
+		"guest_2g_ssid": "TP-LINK_C8_2G_Guest",
+		"guest_2g_pwd": "1234567890",
+		
+		"guest_5g_status": "On",
+		"guest_5g_ssid": "TP-LINK_C8_5G_Guest",
+		"guest_5g_pwd": "0987654321",
+
+		"end":""
+	}
+}

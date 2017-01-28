@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/alpha
+END
+dsputil_alpha.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/alpha/dsputil_alpha.h
+END
+regdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/alpha/regdef.h
+END
+simple_idct_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/alpha/simple_idct_alpha.c
+END
+mpegvideo_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/alpha/mpegvideo_alpha.c
+END
+asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/alpha/asm.h
+END
+motion_est_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/alpha/motion_est_alpha.c
+END
+dsputil_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/alpha/dsputil_alpha.c
+END
+dsputil_alpha_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/alpha/dsputil_alpha_asm.S
+END
+motion_est_mvi_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/alpha/motion_est_mvi_asm.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/alpha/Makefile
+END

@@ -1,0 +1,202 @@
+libfuse_lite_la-fuse_kern_chan.lo: fuse_kern_chan.c ../config.h \
+  ../include/fuse-lite/fuse_lowlevel.h ../include/fuse-lite/fuse_common.h \
+  ../include/fuse-lite/fuse_opt.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/stdio.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/features.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/uClibc_config.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/uClibc_arch_features.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sys/cdefs.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/include/stddef.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/types.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/wordsize.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/kernel_types.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/typesizes.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/pthreadtypes.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/sched.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/uClibc_stdio.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/wchar.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/wchar.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/uClibc_mutex.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/pthread.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sched.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/time.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/time.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/uClibc_clk_tck.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/signal.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/sigset.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/initspin.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/sigthread.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/uClibc_pthread.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/include/stdarg.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/stdio_lim.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/stdint.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/utime.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/fcntl.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/fcntl.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sgidefs.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sys/types.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/endian.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/endian.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sys/select.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/select.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sys/sysmacros.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/uio.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sys/stat.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/stat.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sys/statvfs.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/statvfs.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sys/uio.h \
+  ../include/fuse-lite/fuse_kernel.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/asm/types.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/asm-generic/int-ll64.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/asm/bitsperlong.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/asm-generic/bitsperlong.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/linux/major.h \
+  fuse_i.h ../include/fuse-lite/fuse.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/errno.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/errno.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/linux/errno.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/asm/errno.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/asm-generic/errno-base.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/unistd.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/posix_opt.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/environments.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/confname.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/getopt.h \
+  /home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/assert.h
+
+../config.h:
+
+../include/fuse-lite/fuse_lowlevel.h:
+
+../include/fuse-lite/fuse_common.h:
+
+../include/fuse-lite/fuse_opt.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/stdio.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/features.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/uClibc_config.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/uClibc_arch_features.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sys/cdefs.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/include/stddef.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/types.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/wordsize.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/kernel_types.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/typesizes.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/pthreadtypes.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/sched.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/uClibc_stdio.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/wchar.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/wchar.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/uClibc_mutex.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/pthread.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sched.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/time.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/time.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/uClibc_clk_tck.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/signal.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/sigset.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/initspin.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/sigthread.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/uClibc_pthread.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/include/stdarg.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/stdio_lim.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/stdint.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/utime.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/fcntl.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/fcntl.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sgidefs.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sys/types.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/endian.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/endian.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sys/select.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/select.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sys/sysmacros.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/uio.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sys/stat.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/stat.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sys/statvfs.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/statvfs.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/sys/uio.h:
+
+../include/fuse-lite/fuse_kernel.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/asm/types.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/asm-generic/int-ll64.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/asm/bitsperlong.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/asm-generic/bitsperlong.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/linux/major.h:
+
+fuse_i.h:
+
+../include/fuse-lite/fuse.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/errno.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/errno.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/linux/errno.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/asm/errno.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/asm-generic/errno-base.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/unistd.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/posix_opt.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/environments.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/confname.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/bits/getopt.h:
+
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/include/assert.h:

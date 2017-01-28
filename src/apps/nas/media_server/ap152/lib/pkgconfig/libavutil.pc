@@ -1,0 +1,14 @@
+prefix=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152
+exec_prefix=${prefix}
+libdir=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+includedir=${prefix}/include
+
+Name: libavutil
+Description: FFmpeg utility library
+Version: 50.15.1
+Requires: 
+Requires.private: 
+Conflicts:
+Libs: -L${libdir} -lavutil 
+Libs.private: 
+Cflags: -I${includedir}

@@ -1,0 +1,18 @@
+#!/bin/bash
+
+RPM_DIR=$INSTALL_ROOT_FOR_BOARD/web/userRpm
+HELP_DIR=$INSTALL_ROOT_FOR_BOARD/web/help
+
+rm -rf $INSTALL_ROOT_FOR_BOARD/lib/modules/$KERNEL_VER/kernel/br_MultiSsidVlan_InputForward.ko
+rm -rf $INSTALL_ROOT_FOR_BOARD/lib/modules/$KERNEL_VER/kernel/br_MultiSsidVlan_PassUpToRouter.ko
+
+rm -rf $RPM_DIR/*_AP*.htm
+rm -rf $HELP_DIR/*_AP*.htm
+
+rm -rf $RPM_DIR/WzdApOperModeRpm.htm
+rm -rf $RPM_DIR/WzdWlanApcRpm.htm
+rm -rf $RPM_DIR/WzdWlanApRpm.htm
+
+rm -rf $HELP_DIR/WzdApOperModeHelpRpm.htm
+rm -rf $HELP_DIR/WzdWlanApcHelpRpm.htm
+rm -rf $HELP_DIR/WzdWlanApHelpRpm.htm

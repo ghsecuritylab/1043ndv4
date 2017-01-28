@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/src/ssdp
+END
+ssdp_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/src/ssdp/ssdp_server.c
+END
+ssdp_ctrlpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/src/ssdp/ssdp_ctrlpt.c
+END
+ssdp_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/src/ssdp/ssdp_device.c
+END

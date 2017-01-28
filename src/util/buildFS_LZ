@@ -1,0 +1,27 @@
+#!/bin/bash
+
+rm -rf $INSTALL_ROOT_FOR_BOARD/dev/*
+$TOPDIR/util/mkdev.new
+
+if test -z $RESET_LMZ_SIZE
+then
+RESET_LMZ_SIZE=0
+fi
+
+if test -z $LMZ_BLK_SIZE
+then
+LMZ_BLK_SIZE=262144
+fi
+
+if [ $KERNELVER == "2.6.15" ]
+then
+$TOPDIR/util/mksquashfs $INSTALL_ROOT_FOR_BOARD $IMAGEPATH/$FS_NAME -noappend -be -always-use-fragments -b 65536 -lzmadic 65536 -all-root -processors 2
+elif [ $KERNELVER == "2.6.31" ]
+then
+if [ $RESET_LMZ_SIZE -eq 1 ]
+then
+$MAKE_SQUASHFS_TOOL $INSTALL_ROOT_FOR_BOARD $IMAGEPATH/$FS_NAME -noappend -always-use-fragments -all-root -b $LMZ_BLK_SIZE -processors 2
+else
+$MAKE_SQUASHFS_TOOL $INSTALL_ROOT_FOR_BOARD $IMAGEPATH/$FS_NAME -noappend -always-use-fragments -all-root -processors 2
+fi
+fi

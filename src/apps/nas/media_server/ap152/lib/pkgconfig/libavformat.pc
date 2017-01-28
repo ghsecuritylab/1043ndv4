@@ -1,0 +1,14 @@
+prefix=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152
+exec_prefix=${prefix}
+libdir=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+includedir=${prefix}/include
+
+Name: libavformat
+Description: FFmpeg container format library
+Version: 52.64.2
+Requires: libavcodec = 52.72.2
+Requires.private: 
+Conflicts:
+Libs: -L${libdir} -lavformat -lm
+Libs.private: 
+Cflags: -I${includedir}

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc
+END
+dsputil_altivec.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/dsputil_altivec.h
+END
+int_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/int_altivec.c
+END
+vc1dsp_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/vc1dsp_altivec.c
+END
+float_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/float_altivec.c
+END
+gmc_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/gmc_altivec.c
+END
+types_altivec.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/types_altivec.h
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/mathops.h
+END
+check_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/check_altivec.c
+END
+h264_template_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/h264_template_altivec.c
+END
+mpegvideo_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/mpegvideo_altivec.c
+END
+fft_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/fft_altivec.c
+END
+dsputil_ppc.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/dsputil_ppc.c
+END
+vp3dsp_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/vp3dsp_altivec.c
+END
+fdct_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/fdct_altivec.c
+END
+util_altivec.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/util_altivec.h
+END
+idct_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/idct_altivec.c
+END
+h264_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/h264_altivec.c
+END
+dsputil_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/dsputil_altivec.c
+END
+dsputil_ppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/dsputil_ppc.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/ppc/Makefile
+END

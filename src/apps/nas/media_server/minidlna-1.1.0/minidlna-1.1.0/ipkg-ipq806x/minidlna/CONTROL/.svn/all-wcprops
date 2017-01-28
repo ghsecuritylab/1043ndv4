@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/ipkg-ipq806x/minidlna/CONTROL
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/ipkg-ipq806x/minidlna/CONTROL/control
+END
+conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/ipkg-ipq806x/minidlna/CONTROL/conffiles
+END

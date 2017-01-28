@@ -1,0 +1,11 @@
+prefix=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152
+exec_prefix=${prefix}
+libdir=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+includedir=${prefix}/include
+
+Name: libupnp
+Description: Linux SDK for UPnP Devices
+Version: 1.6.6
+Libs:  -L${libdir} -lupnp -lthreadutil -lixml 
+Cflags: -pthread -I${includedir}/upnp
+

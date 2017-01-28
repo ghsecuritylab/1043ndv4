@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/mips
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/mips/mathops.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavcodec/mips/Makefile
+END

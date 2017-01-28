@@ -1,0 +1,785 @@
+# ./configure --prefix=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152 --with-libupnp-dir=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib --with-libdlna-dir=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib --cross-compile --enable-dlna --disable-nls
+AH_CAL_IN_FLASH_AHB=1
+AH_CAL_IN_FLASH_PCI=1
+AH_CAL_LOCATIONS_AHB=0xbfff0000
+AH_CAL_RADIOS_AHB=1
+AH_DEBUG=0
+AH_DESC_NOPACK=1
+AH_SUPPORT_2316=0
+AH_SUPPORT_2317=0
+AH_SUPPORT_2413=0
+AH_SUPPORT_2425=0
+AH_SUPPORT_5111=0
+AH_SUPPORT_5112=0
+AH_SUPPORT_5413=0
+AH_SUPPORT_AR5210=0
+AH_SUPPORT_AR5212=0
+AH_SUPPORT_AR5416=1
+AH_SUPPORT_DRAGONFLY=1
+AH_SUPPORT_EEPROM_AR9287=0
+AH_SUPPORT_HOWL=0
+AH_SUPPORT_K2=0
+AH_SUPPORT_KITE_10=0
+AH_SUPPORT_KITE_12=0
+AH_SUPPORT_KITE_ANY=0
+AH_SUPPORT_KIWI_10=0
+AH_SUPPORT_KIWI_11=0
+AH_SUPPORT_KIWI_ANY=0
+AH_SUPPORT_OWL=0
+AH_SUPPORT_SOWL=0
+AH_SUPPORT_WASP=0
+AP_TYPE=single
+AR=mips-linux-uclibc-ar
+AR5416_G_MODE=1
+AR5416_INT_MITIGATION=1
+AR7240_EMU=0
+AR9100=0
+ATHEROSPATH=/home/jji315/mount1/qca_branch/build/../ap152/wlan
+ATHEROS_LINUX_PERIODIC_SCAN=0
+ATH_CAP_AMSDU=0
+ATH_CAP_CWM=1
+ATH_CAP_PHYERR_DIAG=1
+ATH_CFG_SGMII=1
+ATH_CHAINMASK_SELECT=0
+ATH_CONFIG_NVRAM=0
+ATH_CONFIG_SWAP_SGMII=0
+ATH_DEBUG=0
+ATH_DMA_CHECK=1
+ATH_EXT_AP=1
+ATH_GEN_RANDOMNESS=1
+ATH_GMAC0_MII=ATHR_SGMII
+ATH_GMAC0_RXFCTL=1
+ATH_GMAC0_RX_CNT=224
+ATH_GMAC0_TXFCTL=1
+ATH_GMAC0_TX_CNT=128
+ATH_GMAC1_MII=ATHR_SGMII
+ATH_GMAC1_RXFCTL=1
+ATH_GMAC1_RX_CNT=224
+ATH_GMAC1_TXFCTL=1
+ATH_GMAC1_TX_CNT=128
+ATH_GMAC_DESC_SRAM=1
+ATH_GMAC_GE0_IS_CONNECTED=1
+ATH_GMAC_HW_QOS=0
+ATH_GMAC_LEN_PER_TX_DS=1536
+ATH_GMAC_LOCATION=0xbfff0000
+ATH_GMAC_RX_PKT_CNT=160
+ATH_GMAC_RX_TASKLET=1
+ATH_HW_TXQ_STUCK_WAR=1
+ATH_INT_TX_MITIGATION=1
+ATH_LINK_INTR=1
+ATH_NO_5G_SUPPORT=1
+ATH_PHYERR=/home/jji315/mount1/qca_branch/build/../ap152/wlan/madwifi/dfs
+ATH_RATE=/home/jji315/mount1/qca_branch/build/../ap152/wlan/madwifi/ratectrl11n/
+ATH_RB=0
+ATH_RXBUF=512
+ATH_S17INT_GPIO=10
+ATH_S17_MAC0_SGMII=1
+ATH_SGMII_FORCED=1
+ATH_SINGLE_CFG=0
+ATH_SUPPORT_CWM=1
+ATH_SUPPORT_DESC_CACHABLE=1
+ATH_SUPPORT_DFS=0
+ATH_SUPPORT_DYN_TX_CHAINMASK=1
+ATH_SUPPORT_GREEN_AP=0
+ATH_SUPPORT_HS20=0
+ATH_SUPPORT_IBSS=0
+ATH_SUPPORT_IBSS_PERSTA_HWKEY=0
+ATH_SUPPORT_IBSS_WPA2=0
+ATH_SUPPORT_IQUE=1
+ATH_SUPPORT_KEYPLUMB_WAR=1
+ATH_SUPPORT_MCAST2UCAST=1
+ATH_SUPPORT_PAPRD=0
+ATH_SUPPORT_QUICK_KICKOUT=1
+ATH_SUPPORT_RX_PROC_QUOTA=0
+ATH_SUPPORT_SPECTRAL=0
+ATH_SUPPORT_TIDSTUCK_WAR=1
+ATH_SUPPORT_TX_OPT_RETRY=0
+ATH_SUPPORT_TX_SCHED_OPT=1
+ATH_SUPPORT_TxBF=0
+ATH_SUPPORT_UAPSD=1
+ATH_SUPPORT_UAPSD_RATE_CONTROL=0
+ATH_SUPPORT_VLAN=1
+ATH_SUPPORT_VOWEXT=0
+ATH_SUPPORT_VOW_DCS=0
+ATH_SUPPORT_WIFIPOS=0
+ATH_SWRETRY=0
+ATH_SWRETRY_MODIFY_DSTMASK=0
+ATH_TXBUF=768
+ATH_TXQ_BH_LOCK=1
+ATH_TX_BUF_FLOW_CNTL=1
+ATH_TX_COMPACT=1
+ATH_TX_DROP_POLICY=0
+ATH_VOW_EXT_STATS=0
+ATH_WDS_SUPPORT_APONLY=1
+ATH_WPS_IE=1
+BASH=/bin/sh
+BASHOPTS=cmdhist:extquote:force_fignore:hostcomplete:interactive_comments:progcomp:promptvars:sourcepath
+BASH_ALIASES=()
+BASH_ARGC=([0]="6")
+BASH_ARGV=([0]="--disable-nls" [1]="--enable-dlna" [2]="--cross-compile" [3]="--with-libdlna-dir=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib" [4]="--with-libupnp-dir=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib" [5]="--prefix=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152")
+BASH_CMDS=()
+BASH_LINENO=([0]="0")
+BASH_SOURCE=([0]="./configure")
+BASH_VERSINFO=([0]="4" [1]="1" [2]="2" [3]="1" [4]="release" [5]="i386-redhat-linux-gnu")
+BASH_VERSION='4.1.2(1)-release'
+BIG_ENDIAN_HOST=1
+BOARD_APPLICATIONS='busybox pppoe l2tp bpa iptables tc_build net_ioctl arp nas ftpserver ushare NetUSB_Kcodes ipv6_tools dropbear_build lltd'
+BOARD_KERNEL_MODULES='stats netfilter wlan_warn ethernet br_filter ts_kmp pppol2tp pptp_module tp_domain ap_vlan art br_guest_filter br_guest_mark ipv6_netfilter ipv6_modules netsched'
+BOARD_TYPE=ap152
+BOOTLOADERDIR=/home/jji315/mount1/qca_branch/build/../ap152/boot/u-boot
+BUILD_ATHR_HOSTAP=1
+BUILD_CONFIG=_routing
+BUILD_OPTIMIZED=y
+BUILD_S17HNAT=1
+BUILD_TYPE=squashfs
+BUILD_UMAC=1
+BUILD_WPA2=y
+BUILD_WPA2_NO_EXAMPLES=y
+BUS=AHB
+BUSYBOX=busybox-1.01
+BUSYBOX_CONFIG_FILE=/home/jji315/mount1/qca_branch/build/../build/products_config/wr1043ndv4_un//busybox.config
+CC=mips-linux-uclibc-gcc
+CFG_BOARD_TYPE=ap152
+COLORTERM=gnome-terminal
+COMPRESSED_UBOOT=1
+COMPRESSKERNEL=y
+CONFIGFILE=config.mak
+CONFIG_H=config.h
+CONFIG_MIPS_74K_KERNEL_OPTIMIZATION=1
+CONFIG_NM_PTN_TABLE_BASE=0xfc0000
+CVS_RSH=ssh
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-M1RnzOpyzh,guid=6ec27b5441dd2c781e0d9c4d0000003d
+DEBUG_BANDWIDTH_FEATURE=0
+DESKTOP_SESSION=gnome
+DEV_NAME=wr1043ndv4_un
+DIRECT_ATTACH=1
+DIRSTACK=()
+DISPLAY=:0.0
+EMULATOR_DIR=/home/jji315/mount1/qca_branch/build/../EMULATOR_wr1043ndv4_un
+ENETDIR=/home/jji315/mount1/qca_branch/build/../ap152/linux/drivers/ethernet/
+ENET_COPY_DIR=/home/jji315/mount1/qca_branch/build/../ap152/binary/ethernet/wr1043ndv4_un
+ETH_CONFIG=_s17_hwaccel
+EUID=0
+FEATURE_841V11_HORADADA=n
+FEATURE_ACCEPT_NON_PPP_MULTICAST_DATA=n
+FEATURE_ACL_ENHANCE=n
+FEATURE_ALWAYS_BROADCAST_DHCP_REQUESTED_PACKET=n
+FEATURE_ANY_DOMAIN_LOGIN=n
+FEATURE_AP_CHANFOLLOW=n
+FEATURE_AUTO_REBOOT=n
+FEATURE_BACKUP_PRODUCTINFO=y
+FEATURE_CHANGE_DUPLEXING_MODE=n
+FEATURE_CHECK_RSA_SIGNATURE=n
+FEATURE_COMPRESSED_WEBPAGE=n
+FEATURE_CTL_FOR_HP=n
+FEATURE_DUAL_LANGUAGE=n
+FEATURE_ENCRYPT_MD5=y
+FEATURE_EXTEND_4M_FLASH_TO_8M=n
+FEATURE_FORCE_CHANGE_PSW=n
+FEATURE_FPT_WIFI_PORTAL=n
+FEATURE_FS_SIZE_CUT=n
+FEATURE_FULL_SOFTWARE_VERSION=n
+FEATURE_GPIO_REG_CTL=n
+FEATURE_GPIO_SLOW_ETH_LED=n
+FEATURE_GUESTNETWORK_QOS_WARNING=y
+FEATURE_HW_RESET_MARK=n
+FEATURE_IPV6_MO_BIT=n
+FEATURE_ISP_BR_SKY=n
+FEATURE_ISP_FILIPINE_GLOBE=n
+FEATURE_ISP_SINKNET=n
+FEATURE_LED_CONTROL=n
+FEATURE_LOCK_IPTABLES=y
+FEATURE_MEDIA_SERVER_USE_MINIDLNA=n
+FEATURE_MODE_GN=n
+FEATURE_MODE_NAC=n
+FEATURE_MR3420_RU_SIBERIAN_EDITION=n
+FEATURE_MSSID_WEP_FOR_VNM_SCTV=n
+FEATURE_MS_VLAN=n
+FEATURE_NEED_CHECK_DOTDOT_URL=n
+FEATURE_NO_BETA_WATERMARK=n
+FEATURE_NO_USB=n
+FEATURE_PIN_AS_PWD=n
+FEATURE_POWER_LED_BLINK=y
+FEATURE_PPPOE_NO_CHECK=n
+FEATURE_QUICK_SETUP_FOR802=n
+FEATURE_RANDOM_WIFI_PSW=n
+FEATURE_ROMANIA=n
+FEATURE_RSTRICT_WAN_IGMP_VERSION=n
+FEATURE_RST_SYSMODE=n
+FEATURE_RU_INTERSVYAZ_GUESTNETWORK=n
+FEATURE_RU_INTERSVYAZ_SESSION=n
+FEATURE_RU_TELECOM=n
+FEATURE_SET_MAXSTA=n
+FEATURE_SHARE_IPV4_PPPOE_ACCOUNT_WITH_IPV6=n
+FEATURE_SHORT_MAX_NODE_SAVEQ_LEN=n
+FEATURE_SHORT_SSID=y
+FEATURE_SHORT_SSID_2MAC=n
+FEATURE_SINGLE_PORT_ROUTER=n
+FEATURE_SKIP_ISP_AUTO_CONF=n
+FEATURE_SPEC_WAN_LOGIN=n
+FEATURE_SSID_POLAND=n
+FEATURE_SUPER_MGR_USER=n
+FEATURE_SYSLOG_NEW=n
+FEATURE_SYSTEM_LED=y
+FEATURE_SYS_US_EDITION=n
+FEATURE_TP_NEW_DOMAIN=y
+FEATURE_TR069_ACLURL_EMPTY=n
+FEATURE_TR069_SUPPORT_DSL_NODES=n
+FEATURE_TR069_TRANSFERCOMPLETE_FPT=n
+FEATURE_UKRAINE_DNS=n
+FEATURE_UKRAINE_DNS_FOR_WR842NDV2=n
+FEATURE_UKRAINE_HIDDEN_REMOTE_CONTROL=n
+FEATURE_UN_VERSION_CHECK=y
+FEATURE_UPGRADE_WR802V2=n
+FEATURE_USE_LAN_MAC_AS_PPPOE_USERNAME=n
+FEATURE_US_CPI_SECURITY=n
+FEATURE_US_REG_CHECK=n
+FEATURE_UTILITY_NO_RESTART=y
+FEATURE_VIETTEL_VLAN=n
+FEATURE_VLAN_PVID_ADJUST=n
+FEATURE_VNM_FPT_AUTH=n
+FEATURE_VNM_FPT_SSID=n
+FEATURE_WAN_LOGIN=n
+FEATURE_WAN_NO_BPA=n
+FEATURE_WAN_NO_L2TP=n
+FEATURE_WAN_NO_PPTP=n
+FEATURE_WEB_ACCESS_RANGE=n
+FEATURE_WEB_NEWUI=y
+FEATURE_WEP_WORKAROUND=n
+FEATURE_WISP_MSSID=n
+FEATURE_WLAN_STA_DETAIL=n
+FEATURE_WR841NV10_SCTV=n
+FLASH_CUT_KERNEL_BLK=0
+FLASH_SIZE=16
+FS_NAME=wr1043ndv4_un-squashfs
+FUSIONTARGET=mipsisa32-be-elf
+FW_INPUT_BUTTON_GPIO=2
+FW_OUTPUT_LED_GPIO=1
+FW_OUTPUT_LED_ON=0
+FW_RECOVERY=y
+FW_RECOVERY_DEV=wr1043ndv4
+GDMSESSION=gnome
+GDM_KEYBOARD_LAYOUT=us
+GDM_LANG=en_US.UTF-8
+GMAC_QCA956x=1
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GNOME_KEYRING_PID=2707
+GNOME_KEYRING_SOCKET=/tmp/keyring-hdSyGG/socket
+GPL_BUILD=y
+GPL_DIR=/home/jji315/mount1/qca_branch/build/../gpl_wr1043ndv4_un
+GPL_IMAGEPATH=/home/jji315/mount1/qca_branch/build/../gpl_wr1043ndv4_un/images/wr1043ndv4_un
+GPL_INSTALL_ROOT=/home/jji315/mount1/qca_branch/build/../gpl_wr1043ndv4_un/rootfs.build.2.6.31
+GPL_INSTALL_ROOT_FOR_BOARD=/home/jji315/mount1/qca_branch/build/../gpl_wr1043ndv4_un/rootfs.wr1043ndv4_un
+GPL_IPV6_PACKAGE_PATH=/home/jji315/mount1/qca_branch/build/../apps/ipv6_tools/ipv6_tools_output
+GPL_IPV6_TOOLS_PATH=/home/jji315/mount1/qca_branch/build/../apps/ipv6_tools
+GPL_MODULE_DIR=/home/jji315/mount1/qca_branch/build/../gpl_wr1043ndv4_un/webs/web_pages_new//en.conf
+GPL_PACKAGE_NAME=gpl_wr1043ndv4_un
+GPL_PRODUCT_CONFIG_DIR=/home/jji315/mount1/qca_branch/build/../gpl_wr1043ndv4_un/build/products_config/wr1043ndv4_un/
+GPL_TFTPPATH=/home/jji315/mount1/qca_branch/build/../gpl_wr1043ndv4_un/tftpboot/wr1043ndv4_un/
+GPL_TMP_INSTALL_ROOT=/home/jji315/mount1/qca_branch/build/../gpl_wr1043ndv4_un/rootfs.wr1043ndv4_un.tmp
+GPL_WEBDIR=/home/jji315/mount1/qca_branch/build/../gpl_wr1043ndv4_un/webs/web_pages_new/
+GPL_WIRELESSPACKAGEPATH=/home/jji315/mount1/qca_branch/build/../gpl_wr1043ndv4_un/images/wr1043ndv4_un/wireless/
+GROUPS=()
+GTK_RC_FILES=/etc/gtk/gtkrc:/home/jji315/.gtkrc-1.2-gnome2
+G_BROKEN_FILENAMES=1
+HAL=/home/jji315/mount1/qca_branch/build/../ap152/wlan/hal
+HISTCONTROL=ignoredups
+HISTSIZE=1000
+HOME=/root
+HOSTNAME=jji315
+HOSTTYPE=i386
+HTTP_DEBUG=n
+IEEE80211_MCAST_ENHANCEMENT=1
+IFS=' 	
+'
+IMAGEPATH=/home/jji315/mount1/qca_branch/build/../images/wr1043ndv4_un
+IMAGE_ROOT=/home/jji315/mount1/qca_branch/build/../rootfs-ap152.optbuild
+IMSETTINGS_INTEGRATE_DESKTOP=yes
+IMSETTINGS_MODULE=IBus
+INFOFILE=vmlinux.info
+INSTALL='/usr/bin/install -c'
+INSTALL_BLACKLIST='"None"'
+INSTALL_ROOT=/home/jji315/mount1/qca_branch/build/../rootfs.build.2.6.31
+INSTALL_ROOT_FOR_BOARD=/home/jji315/mount1/qca_branch/build/../rootfs.wr1043ndv4_un
+IPV6_PACKAGE_PATH=/home/jji315/mount1/qca_branch/build/../apps/ipv6_tools/ipv6_tools_output
+IPV6_TOOLS_PATH=/home/jji315/mount1/qca_branch/build/../apps/ipv6_tools
+JUMPSTART_GPIO=2
+KBUILD_MODPOST_WARN=y
+KERNEL=mips-linux-2.6.31
+KERNELARCH=mips
+KERNELPATH=/home/jji315/mount1/qca_branch/build/../ap152/linux/kernels/mips-linux-2.6.31
+KERNELTARGET=vmlinux.bin
+KERNELVER=2.6.31
+KERNEL_CONFIG_FILE=/home/jji315/mount1/qca_branch/build/../build/products_config/wr1043ndv4_un//kernel.config
+KTFILE=vmlinux.bin
+LANG=en_US.UTF-8
+LD=mips-linux-uclibc-ld
+LESSOPEN='|/usr/bin/lesspipe.sh %s'
+LMAC_SUPPORT_POWERSAVE_QUEUE=1
+LMAC_SUPPORT_RESERVED_TXBUF=1
+LOGNAME=jji315
+LS_COLORS='rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:'
+MACHTYPE=i386-redhat-linux-gnu
+MADWIFITARGET=mipsisa32-be-elf
+MAIL=/var/spool/mail/jji315
+MAKEARCH='make ARCH=mips CROSS_COMPILE=mips-linux-uclibc-'
+MAKEFLAGS=DEV_NAME=wr1043ndv4_un
+MAKELEVEL=1
+MAKEOVERRIDES='${-*-command-variables-*-}'
+MAKE_FLASH=make_flash_v4
+MAKE_FLASH_TOOL=/home/jji315/mount1/qca_branch/build/../util/make_flash_v4
+MAKE_SQUASHFS_TOOL=/home/jji315/mount1/qca_branch/build/../util/mksquashfs4
+MFLAGS=
+MODEL_CONFIG_FILE=/home/jji315/mount1/qca_branch/build/../build/products_config/wr1043ndv4_un//model.conf
+MODUEL_APR_SCAN=n
+MODULEPATH=/home/jji315/mount1/qca_branch/build/../rootfs.build.2.6.31/lib/modules/2.6.31/net
+MODULE_3G=n
+MODULE_ACCESSCTRL=y
+MODULE_AP=n
+MODULE_BANDINGCTRL=y
+MODULE_COMMON=y
+MODULE_DDNS=y
+MODULE_DHCP=y
+MODULE_DHCP_REQUEST_SAME_IP=n
+MODULE_DIR=/home/jji315/mount1/qca_branch/build/../webs/web_pages_new//en.conf
+MODULE_DNS_APP=n
+MODULE_DROPBEAR=y
+MODULE_DSA_SELECT=y
+MODULE_ERASE_WAN_CFG=n
+MODULE_FIRST_SET_REGION=n
+MODULE_FIRST_SET_REGION_845EN=n
+MODULE_FIRST_SET_TIMEZONE=y
+MODULE_FIRST_SET_TIMEZONE_845EN=n
+MODULE_FORWARDING=y
+MODULE_FTP=y
+MODULE_GUESTNETWORK_V2=y
+MODULE_GUEST_NETWORK=n
+MODULE_HTTP_SESSION=y
+MODULE_HWNAT=y
+MODULE_HWNAT_AP152=y
+MODULE_IGMP=y
+MODULE_IGMP_V3=n
+MODULE_IPSEC_VPN=n
+MODULE_IPV6=y
+MODULE_IP_MAC=y
+MODULE_ISP_AUTO_CONF=n
+MODULE_LOCAL_HTTP_IP_CONTROL=n
+MODULE_MEDIA_SERVER=y
+MODULE_MULTILINGUAL=n
+MODULE_NAS=y
+MODULE_NAT=y
+MODULE_NEED_USB_CORE=n
+MODULE_NVRAMMNGR=y
+MODULE_OPTION66=n
+MODULE_PARENTCTRL=y
+MODULE_PORT_MIRROR=n
+MODULE_PORT_STATUS=n
+MODULE_PRINTER=y
+MODULE_QOS_IMPROVE=n
+MODULE_QUICKSETUP=n
+MODULE_QUICKSETUP_AP=n
+MODULE_QUICK_SETUP_IMPROVE=n
+MODULE_RE=n
+MODULE_REFERER_ENABLE=n
+MODULE_ROUTER=y
+MODULE_RUSSIA_PPP_DIAL=n
+MODULE_RUSSIA_QUICK_SETUP=n
+MODULE_SECURITY=y
+MODULE_SESSION_REFRESH=n
+MODULE_SINGLE_USB_COMPLEX=n
+MODULE_SMART_DHCP=n
+MODULE_SMART_DMZ=n
+MODULE_SNMP=n
+MODULE_SPEED_BOOST=n
+MODULE_STATICROUTE=y
+MODULE_SYSTOOL=y
+MODULE_SYSTOOL_DATETIME=y
+MODULE_TMP=y
+MODULE_TPAPP=y
+MODULE_TP_DOMAIN_V2=y
+MODULE_TR069=n
+MODULE_TR069_HIDE=n
+MODULE_USB_IPAD_LITE=n
+MODULE_VLAN_CONFIG_S17=y
+MODULE_VLAN_FOR_BRIDGE=n
+MODULE_VLAN_FOR_RUSSIA=y
+MODULE_VLAN_FOR_SPAN=n
+MODULE_VLAN_FOR_TAIWAN=n
+MODULE_VLAN_FOR_WAN=n
+MODULE_VNM_FPT_PORTAL=n
+MODULE_WAN=y
+MODULE_WAN_ARP_BINDING=n
+MODULE_WAN_SPEED_ADJUST=n
+MODULE_WIRELESS=y
+MODULE_WIRELESS_5G=n
+MODULE_WIRELESS_AUTH=n
+MODULE_WISP=n
+MODULE_WLAN_DUALBAND_ONE_STA_EN=n
+MODULE_WLAN_STA_ADDRTYPE=y
+MODULE_WOL=n
+MODULE_WPS=y
+MODULE_WPS_HOST_CLIENT_MULTIPLE=n
+MODULE_YANDEXDNS=n
+NAND=
+OLDSTRIP=mips-linux-uclibc-strip
+OL_ATH_SUPPORT_LED_POLL=0
+OL_ATH_SUPPORT_STATS=0
+OPTERR=1
+OPTIND=1
+ORBIT_SOCKETDIR=/tmp/orbit-jji315
+OSTYPE=linux-gnu
+PATH=/home/jji315/mount1/qca_branch/build/../build/gcc-4.3.3/build_mips/staging_dir/usr//bin:/usr/lib/qt-3.3/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/jji315/bin
+PERF_PWR_OFFLOAD_DIR_PATH=/home/jji315/mount1/qca_branch/build/../ap152/wlan/firmware
+PIPESTATUS=([0]="0")
+PKG_CONFIG_PATH=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib/pkgconfig
+POSIXLY_CORRECT=y
+PPID=20010
+PREFIX=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152
+PRODUCT_CONFIG_DIR=/home/jji315/mount1/qca_branch/build/../build/products_config/wr1043ndv4_un/
+PRODUCT_NAME=WR1043NDV4
+PS4='+ '
+PWD=/home/jji315/mount1/qca_branch/apps/nas/media_server/ushare-1.1a
+QTDIR=/usr/lib/qt-3.3
+QTINC=/usr/lib/qt-3.3/include
+QTLIB=/usr/lib/qt-3.3/lib
+QT_IM_MODULE=ibus
+RANDOM=16232
+RANLIB=mips-linux-uclibc-ranlib
+REMOVE_PKT_LOG=1
+SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/2718,unix/unix:/tmp/.ICE-unix/2718
+SHELL=/bin/bash
+SHELLOPTS=braceexpand:hashall:interactive-comments:posix
+SHLVL=6
+SPECIAL_ISP_DNS=n
+SPEC_DNS_FILTER=n
+SSDK_BOARD_TYPE=.ap152
+SSDK_DIR=/home/jji315/mount1/qca_branch/build/../ap152/linux/drivers/ethernet//s17_ssdk
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SSH_AUTH_SOCK=/tmp/keyring-hdSyGG/socket.ssh
+STRIP=mips-linux-uclibc-sstrip
+TARGETARCH=mipsisa32-be-elf
+TARGETFSSIZE=3080192
+TARGET_POWER_ADJUST_PER_RATE=1
+TARGET_POWER_BY_TPSCALE_DEC=1
+TERM=xterm
+TFTPPATH=/home/jji315/mount1/qca_branch/build/../tftpboot/wr1043ndv4_un/
+TMPC=/tmp/ushare-8217-20011-29029.c
+TMPDIR1=/tmp
+TMPE=/tmp/ushare-25989-20011-7258
+TMPO=/tmp/ushare-17781-20011-8420.o
+TMPS=/tmp/ushare-28684-20011-16232.S
+TMP_INSTALL_ROOT=/home/jji315/mount1/qca_branch/build/../rootfs.wr1043ndv4_un.tmp
+TOOLARCH=build_mips/staging_dir/usr
+TOOLCHAIN=gcc-4.3.3
+TOOLPATH=/home/jji315/mount1/qca_branch/build/../build/gcc-4.3.3/build_mips/staging_dir/usr/
+TOOLPREFIX=mips-linux-uclibc-
+TOPDIR=/home/jji315/mount1/qca_branch/build/..
+TPWD_FOR_LINUX_CAL=0
+TP_FEATURE_GET_SCAN_KEY_TYPE=1
+TP_FEATURE_GET_WIRELESS_STATE=1
+TP_FEATURE_SUPPORT_IGMP_MASK=1
+TP_FEATURE_WDS_3ADDR_AGING=1
+TP_FEATURE_WLAN_STA_ADDRTYPE=1
+TP_IEEE80211_RELEASE_BAR_UMAC=1
+UBOOTDIR=/home/jji315/mount1/qca_branch/build/../ap152/boot/u-boot
+UBOOTFILE=tuboot.bin
+UBOOT_BINARY=tuboot.bin
+UBOOT_FILE=u-boot.bin
+UBOOT_GCC_4_3_3_EXTRA_CFLAGS=-fPIC
+UBOOT_NVRAMMNGR=y
+UID=0
+UMAC_SUPPORT_ADMCTL=0
+UMAC_SUPPORT_APONLY=1
+UMAC_SUPPORT_BANDWIDTH_QUEUE=0
+UMAC_SUPPORT_BSSLOAD=0
+UMAC_SUPPORT_CHANUTIL_MEASUREMENT=0
+UMAC_SUPPORT_DFS=0
+UMAC_SUPPORT_DGAF_DISABLE=0
+UMAC_SUPPORT_HS20_L2TIF=0
+UMAC_SUPPORT_IBSS=0
+UMAC_SUPPORT_NAWDS=0
+UMAC_SUPPORT_PERIODIC_PERFSTATS=0
+UMAC_SUPPORT_PROXY_ARP=0
+UMAC_SUPPORT_QUIET=0
+UMAC_SUPPORT_RRM=0
+UMAC_SUPPORT_STA_MODE=0
+UMAC_SUPPORT_STA_POWERSAVE=0
+UMAC_SUPPORT_TXDATAPATH_NODESTATS=0
+UMAC_SUPPORT_TX_FRAG=0
+UMAC_SUPPORT_WNM=0
+USER=jji315
+USERNAME=jji315
+USE_LOCALIZTION_PAGE=n
+VERSION=1.1a
+WEBDIR=/home/jji315/mount1/qca_branch/build/../webs/web_pages_new/
+WEBS=webs
+WINDOWID=29360601
+WINDOWPATH=1
+WIRELESSPACKAGEPATH=/home/jji315/mount1/qca_branch/build/../images/wr1043ndv4_un/wireless/
+WIRELESSTOOLS=wireless_tools.29
+WIRELESSTOOLSLIB=libiw.so.29
+XAUTHORITY=/root/.xauthKpKYe5
+XDG_SESSION_COOKIE=ba61bac05d9f4ea30041611c00000028-1468485694.667852-278235204
+XMODIFIERS=@im=ibus
+_=--disable-nls
+bindir='${PREFIX}/bin'
+cc=mips-linux-uclibc-gcc
+cpu=x86
+cross_compile=yes
+ddr_cas=5
+debug=no
+dlna=yes
+dostrip=yes
+extralibs=
+force_prefix=yes
+installstrip=-s
+lang=en.conf
+libdlnadir=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+libupnpdir=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+localedir='${PREFIX}/share/locale'
+logfile=config.log
+logging=yes
+make=make
+nls=no
+opt=--disable-nls
+optimize=yes
+optval=--disable-nls
+pll=CFG_PLL_775_650_258
+strip=mips-linux-uclibc-sstrip
+sysconfdir='${PREFIX}/etc'
+system_name=Linux
+Checking for compiler available...
+check_ld
+check_cc
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	int main(){
+     2	    return 0;
+     3	}
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -o /tmp/ushare-25989-20011-7258 /tmp/ushare-17781-20011-8420.o
+check_header altivec.h
+check_cpp
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	#include <altivec.h>
+     2	int x;
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -E -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+/tmp/ushare-8217-20011-29029.c:1:21: error: altivec.h: No such file or directory
+check_cc -msse
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	#include <xmmintrin.h>
+     2	int main(void) {
+     3	#if __GNUC__ > 3 || (__GNUC__ == 3 && __GNUC_MINOR__ >= 2)
+     4	return 0;
+     5	#else
+     6	#error no vector builtins
+     7	#endif
+     8	}
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -msse -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+cc1: error: unrecognized command line option "-msse"
+check_cc -march=athlon
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	#include <mm3dnow.h>
+     2	int main(void) {
+     3	__m64 b1;
+     4	b1 = _m_pswapd(b1);
+     5	_m_femms();
+     6	return 0;
+     7	}
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -march=athlon -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+cc1: error: unrecognized command line option "-march=athlon"
+check_cflags -W
+check_cc -W
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	int x;
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+check_cflags -Wall
+check_cc -Wall
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	int x;
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+check_cflags -D_LARGEFILE_SOURCE
+check_cc -D_LARGEFILE_SOURCE
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	int x;
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+check_cflags -D_FILE_OFFSET_BITS=64
+check_cc -D_FILE_OFFSET_BITS=64
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	int x;
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+check_cflags -D_REENTRANT
+check_cc -D_REENTRANT
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	int x;
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+Checking for locales ...
+check_header locale.h
+check_cpp
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	#include <locale.h>
+     2	int x;
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -E -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+check_lib locale.h setlocale 
+check_header locale.h
+check_cpp
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	#include <locale.h>
+     2	int x;
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -E -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+check_func setlocale
+check_ld
+check_cc
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	extern int setlocale();
+     2	int main(){
+     3	    setlocale();
+     4	    return 0;
+     5	}
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -o /tmp/ushare-25989-20011-7258 /tmp/ushare-17781-20011-8420.o
+Checking for langinfo ...
+check_header langinfo.h
+check_cpp
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	#include <langinfo.h>
+     2	int x;
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -DHAVE_SETLOCALE -E -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+check_lib langinfo.h nl_langinfo 
+check_header langinfo.h
+check_cpp
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	#include <langinfo.h>
+     2	int x;
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -DHAVE_SETLOCALE -DHAVE_LANGINFO_H -E -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+check_func nl_langinfo
+check_ld
+check_cc
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	extern int nl_langinfo();
+     2	int main(){
+     3	    nl_langinfo();
+     4	    return 0;
+     5	}
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -DHAVE_SETLOCALE -DHAVE_LANGINFO_H -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -o /tmp/ushare-25989-20011-7258 /tmp/ushare-17781-20011-8420.o
+check_cflags -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+check_cc -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	int x;
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -DHAVE_SETLOCALE -DHAVE_LANGINFO_H -DHAVE_LANGINFO_CODESET -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+check_ldflags -L/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+check_ld -L/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+check_cc
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	int main(){
+     2	    return 0;
+     3	}
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -DHAVE_SETLOCALE -DHAVE_LANGINFO_H -DHAVE_LANGINFO_CODESET -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -L/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -o /tmp/ushare-25989-20011-7258 /tmp/ushare-17781-20011-8420.o
+Checking for libixml ...
+check_lib upnp/ixml.h ixmlRelaxParser -lixml
+check_header upnp/ixml.h
+check_cpp
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	#include <upnp/ixml.h>
+     2	int x;
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -DHAVE_SETLOCALE -DHAVE_LANGINFO_H -DHAVE_LANGINFO_CODESET -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -E -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+check_func ixmlRelaxParser
+check_ld
+check_cc
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	extern int ixmlRelaxParser();
+     2	int main(){
+     3	    ixmlRelaxParser();
+     4	    return 0;
+     5	}
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -DHAVE_SETLOCALE -DHAVE_LANGINFO_H -DHAVE_LANGINFO_CODESET -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -L/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -o /tmp/ushare-25989-20011-7258 /tmp/ushare-17781-20011-8420.o -lixml
+/home/jji315/mount1/qca_branch/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/../lib/gcc/mips-linux-uclibc/4.3.3/../../../../mips-linux-uclibc/bin/ld: warning: libpthread.so.0, needed by /home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib/libixml.so, not found (try using -rpath or -rpath-link)
+Checking for libthreadutil ...
+check_lib upnp/ThreadPool.h ThreadPoolAdd -lthreadutil -lpthread
+check_header upnp/ThreadPool.h
+check_cpp
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	#include <upnp/ThreadPool.h>
+     2	int x;
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -DHAVE_SETLOCALE -DHAVE_LANGINFO_H -DHAVE_LANGINFO_CODESET -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -E -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+check_func ThreadPoolAdd
+check_ld
+check_cc
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	extern int ThreadPoolAdd();
+     2	int main(){
+     3	    ThreadPoolAdd();
+     4	    return 0;
+     5	}
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -DHAVE_SETLOCALE -DHAVE_LANGINFO_H -DHAVE_LANGINFO_CODESET -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -L/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -o /tmp/ushare-25989-20011-7258 /tmp/ushare-17781-20011-8420.o -lixml -lthreadutil -lpthread
+Checking for libupnp >= 1.4.2 ...
+Checking for libdlna >= 0.2.1 ...
+check_cflags -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+check_cc -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	int x;
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -DHAVE_SETLOCALE -DHAVE_LANGINFO_H -DHAVE_LANGINFO_CODESET -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -pthread -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/include/upnp -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+check_ldflags -L/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+check_ld -L/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+check_cc
+BEGIN /tmp/ushare-8217-20011-29029.c
+     1	int main(){
+     2	    return 0;
+     3	}
+END /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -DHAVE_SETLOCALE -DHAVE_LANGINFO_H -DHAVE_LANGINFO_CODESET -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -pthread -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/include/upnp -c -o /tmp/ushare-17781-20011-8420.o /tmp/ushare-8217-20011-29029.c
+mips-linux-uclibc-gcc -L/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -L/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -o /tmp/ushare-25989-20011-7258 /tmp/ushare-17781-20011-8420.o -lixml -lthreadutil -lpthread -L/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -lupnp -lrt
+%%%%%%after -DHAVE_DLNA%%%%%
+  CFLAGS::              -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -DHAVE_SETLOCALE -DHAVE_LANGINFO_H -DHAVE_LANGINFO_CODESET -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -pthread -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/include/upnp -DHAVE_DLNA
+%%%%%%after pkg-config libdlna --cflags%%%%%
+  CFLAGS::              -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -DHAVE_SETLOCALE -DHAVE_LANGINFO_H -DHAVE_LANGINFO_CODESET -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -pthread -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/include/upnp -DHAVE_DLNA
+
+uShare: configure is OK
+  version            1.1a
+  using libupnp      1.6.6
+  using libdlna      0.2.3
+configuration:
+  install prefix     /home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152
+  configuration dir  ${PREFIX}/etc
+  locales dir        ${PREFIX}/share/locale
+  NLS support        no
+  DLNA support       yes
+  C compiler         mips-linux-uclibc-gcc
+  STRIP              mips-linux-uclibc-sstrip
+  make               make
+  CPU                x86 ()
+  debug symbols      no
+  strip symbols      yes
+  optimize           yes
+
+  CFLAGS              -I.. -W -Wall -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_REENTRANT -D_GNU_SOURCE -O3 -DHAVE_LOCALE_H -DHAVE_SETLOCALE -DHAVE_LANGINFO_H -DHAVE_LANGINFO_CODESET -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -pthread -I/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/include/upnp -DHAVE_DLNA
+  LDFLAGS             -L/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+  extralibs           -lixml -lthreadutil -lpthread -L/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib -lupnp -lrt -ldlna -lavdevice -lswscale -lavformat -lavcodec -lm -lavutil
+
+Creating config.mak ...
+Creating config.h ...

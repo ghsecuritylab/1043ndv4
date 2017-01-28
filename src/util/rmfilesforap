@@ -1,0 +1,52 @@
+#!/bin/bash
+
+RPM_DIR=$INSTALL_ROOT_FOR_BOARD/web/userRpm
+HELP_DIR=$INSTALL_ROOT_FOR_BOARD/web/help
+
+rm -rf $RPM_DIR/MobileCfgAdvRpm.htm
+rm -rf $RPM_DIR/MobileCfgRpm.htm
+rm -rf $RPM_DIR/ConnModeCfgRpm.htm
+rm -rf $RPM_DIR/UsbModemListRpm.htm
+rm -rf $RPM_DIR/UsbModemUploadRpm.htm
+rm -rf $RPM_DIR/Wzd3GTypeRpm.htm
+
+rm -rf $RPM_DIR/PPPoECfgAdvRpm.htm
+rm -rf $RPM_DIR/PPPoECfgRpm.htm
+rm -rf $RPM_DIR/PPTPCfgRpm.htm
+rm -rf $RPM_DIR/BPACfgRpm.htm
+rm -rf $RPM_DIR/L2TPCfgRpm.htm
+rm -rf $RPM_DIR/WlanNetworkRpm_APC.htm
+rm -rf $RPM_DIR/WzdWanTypeRpm.htm
+rm -rf $RPM_DIR/WzdWlanApcRpm.htm
+rm -rf $RPM_DIR/WzdWanAutoTypeRpm.htm
+
+rm -rf $RPM_DIR/NetworkCfgRpm.htm
+rm -rf $RPM_DIR/WlanNetworkRpm.htm
+rm -rf $RPM_DIR/WzdEndRpm.htm
+rm -rf $RPM_DIR/WzdWorkingModeRpm.htm
+
+rm -rf $RPM_DIR/WzdWorkingModeRpm.htm
+rm -rf $RPM_DIR/WzdWorkingModeRpm.htm
+rm -rf $RPM_DIR/WzdWorkingModeRpm.htm
+rm -rf $RPM_DIR/WzdWorkingModeRpm.htm
+rm -rf $RPM_DIR/WzdWorkingModeRpm.htm
+rm -rf $RPM_DIR/WzdWorkingModeRpm.htm
+rm -rf $RPM_DIR/WzdWorkingModeRpm.htm
+rm -rf $RPM_DIR/WzdWorkingModeRpm.htm
+
+rm -rf $HELP_DIR/MobileCfgAdvHelpRpm.htm
+rm -rf $HELP_DIR/MobileCfgHelpRpm.htm
+rm -rf $HELP_DIR/ConnModeCfgHelpRpm.htm
+rm -rf $HELP_DIR/UsbModemHelpRpm.htm
+rm -rf $HELP_DIR/Wzd3GTypeHelpRpm.htm
+rm -rf $HELP_DIR/NetworkCfgHelpRpm.htm
+rm -rf $HELP_DIR/WlanNetworkHelpRpm.htm
+rm -rf $HELP_DIR/WzdWorkingModeHelpRpm.htm
+rm -rf $HELP_DIR/PPPoECfgAdvHelpRpm.htm
+rm -rf $HELP_DIR/PPPoECfgHelpRpm.htm
+rm -rf $HELP_DIR/PptpCfgHelpRpm.htm
+rm -rf $HELP_DIR/L2tpCfgHelpRpm.htm
+rm -rf $HELP_DIR/BpaCfgHelpRpm.htm
+rm -rf $HELP_DIR/StatusHelpRpm.htm
+rm -rf $HELP_DIR/StatusHelpRpm_APC.htm
+rm -rf $HELP_DIR/StatusHelpRpm_ROUTER.htm

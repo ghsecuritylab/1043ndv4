@@ -1,0 +1,9 @@
+{
+	"success":	true,
+	"timeout":	false,
+	"data":	{
+		"type":	2,
+		"state":	2,
+		"wait_time":	4500
+	}
+}

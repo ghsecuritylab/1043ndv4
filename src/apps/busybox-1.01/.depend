@@ -1,0 +1,1058 @@
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/editors/patch.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/editors/patch.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/editors/sed.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/editors/sed.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/editors/awk.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/editors/awk.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/awk/math.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/editors/vi.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/editors/vi.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/locale/support.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/vi/optimize/cursor.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/vi/use/signals.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/vi/crashme.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/vi/dot/cmd.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/vi/yankmark.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/vi/readonly.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/vi/search.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/vi/colon.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/vi/win/resize.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/vi/setopts.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/vi/set.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/modutils/insmod.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/modutils/insmod.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/2/4/modules.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/2/6/modules.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/insmod/loadinkmem.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/insmod/version/checking.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/use/list.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/list/archtype.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/use/single.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/use/plt/entries.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/use/got/entries.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/use/plt/list.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/got/entry/size.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/plt/entry/size.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/check/tainted/module.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/insmod/ksymoops/symbols.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/insmod/load/map.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/insmod/load/map/full.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/modutils/lsmod.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/modutils/lsmod.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/check/tainted/module.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/query/module/interface.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/modutils/modprobe.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/modutils/modprobe.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/2/6/modules.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/modutils/rmmod.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/modutils/rmmod.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/2/6/modules.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/query/module/interface.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/init/poweroff.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/init/poweroff.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/init.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/init/init_shared.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/init/init_shared.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/initrd.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/init.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/init/halt.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/init/halt.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/init.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/init/reboot.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/init/reboot.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/init.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/init/init.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/init/init.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/syslogd.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/init/coredumps.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/extra/quiet.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/init/swapon.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/use/inittab.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/initrd.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/init/mesg.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/init/mesg.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/gunzip.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/gunzip.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/gunzip/uncompress.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/cpio.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/cpio.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/bunzip2.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/bunzip2.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/gzip.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/gzip.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/gunzip.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/rpm.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/rpm.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/dpkg_deb.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/dpkg_deb.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/deb/tar/gz.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/deb/tar/bz2.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/ar.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/ar.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/get_header_tar_bz2.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/get_header_tar_bz2.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/data_extract_to_stdout.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/data_extract_to_stdout.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/get_header_tar_gz.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/get_header_tar_gz.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/get_header_cpio.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/get_header_cpio.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/init_handle.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/init_handle.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/seek_by_char.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/seek_by_char.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/filter_accept_all.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/filter_accept_all.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/data_extract_all.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/data_extract_all.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/archive_xread_all_eof.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/archive_xread_all_eof.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/decompress_uncompress.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/decompress_uncompress.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/config.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/config.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/unpack_ar_archive.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/unpack_ar_archive.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/decompress_unzip.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/decompress_unzip.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/config.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/config.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/get_header_tar.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/get_header_tar.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/tar/gnu/extensions.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/tar/oldgnu/compatability.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/filter_accept_list.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/filter_accept_list.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/filter_accept_list_reassign.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/filter_accept_list_reassign.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/deb/tar/gz.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/deb/tar/bz2.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/header_skip.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/header_skip.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/data_extract_to_buffer.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/data_extract_to_buffer.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/header_verbose_list.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/header_verbose_list.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/archive_xread_all.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/archive_xread_all.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/header_list.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/header_list.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/filter_accept_reject_list.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/filter_accept_reject_list.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/data_align.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/data_align.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/decompress_bunzip2.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/decompress_bunzip2.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/get_header_ar.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/get_header_ar.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ar/long/filenames.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/open_transformer.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/open_transformer.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/seek_by_jump.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/seek_by_jump.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/unarchive/tape.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/find_list_entry.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/find_list_entry.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/data_skip.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/data_skip.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/check_header_gzip.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/libunarchive/check_header_gzip.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/unzip.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/unzip.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/rpm2cpio.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/rpm2cpio.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/tar.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/tar.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/tar/create.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/tar/from.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/tar/gzip.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/tar/compress.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/tar/bzip2.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/tar/long/options.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/dpkg.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/dpkg.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/deb/tar/gz.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/deb/tar/bz2.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/uncompress.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/archival/uncompress.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/findutils/find.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/findutils/find.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/find/type.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/find/perm.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/find/mtime.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/find/xdev.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/find/newer.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/find/inum.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/findutils/grep.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/findutils/grep.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/grep/context.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/grep/egrep/alias.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/grep/fgrep/alias.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/findutils/xargs.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/findutils/xargs.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/xargs/support/confirmation.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/xargs/support/quotes.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/xargs/support/termopt.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/xargs/support/zero/term.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libpwdgrp/pwd_grp.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libpwdgrp/pwd_grp.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/grp_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/grp_.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/shadow_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/shadow_.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/makedevs.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/makedevs.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/rx.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/rx.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/hdparm.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/hdparm.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/hdparm/get/identity.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/hdparm/hdio/getset/dma.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/hdparm/hdio/unregister/hwif.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/hdparm/hdio/scan/hwif.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/hdparm/hdio/tristate/hwif.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/hdparm/hdio/drive/reset.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/ethreg.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/ethreg.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/athrs_ctrl.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/athrs_ctrl.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/dc.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/dc.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/watchdog.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/watchdog.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/crontab.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/crontab.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/adjtimex.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/adjtimex.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/time.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/time.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/mt.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/mt.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/last.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/last.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/strings.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/strings.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/devfsd.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/devfsd.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/devfsd/modload.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/devfsd/verbose.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/debug.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/devfsd/fg/np.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/file.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/modules/devfs.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/crond.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/miscutils/crond.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/crond/call/sendmail.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/applets/applets.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/applets/applets.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/usage.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/usage.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/applets.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/applets.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/applets.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/applets.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/suid.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/suid/config.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/grp_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/grp_.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/suid/config/quiet.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/file.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/applets/busybox.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/applets/busybox.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/locale/support.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/installer.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/init.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/autowidth.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/uptime.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/uptime.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/ps.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/ps.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/selinux.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/kill.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/kill.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/killall.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/top.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/top.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/use/termios.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/selinux.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/pidof.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/pidof.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/sysctl.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/sysctl.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/renice.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/renice.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/free.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/procps/free.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/deallocvt.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/deallocvt.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/reset.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/reset.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/chvt.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/chvt.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/openvt.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/openvt.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/setkeycodes.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/setkeycodes.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/dumpkmap.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/dumpkmap.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/clear.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/clear.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/loadkmap.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/loadkmap.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/loadfont.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/console-tools/loadfont.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/my_getpwnam.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/my_getpwnam.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/grp_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/grp_.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/hash_fd.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/hash_fd.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/sha1sum.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/md5sum.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/herror_msg.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/herror_msg.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/device_open.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/device_open.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/get_line_from_file.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/get_line_from_file.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/vperror_msg.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/vperror_msg.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/error_msg.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/error_msg.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/module_syscalls.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/module_syscalls.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/perror_nomsg.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/perror_nomsg.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/vdprintf.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/vdprintf.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/pw_encrypt.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/pw_encrypt.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sha1/passwords.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/run_shell.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/run_shell.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/selinux.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/perror_nomsg_and_die.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/perror_nomsg_and_die.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/interface.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/interface.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/inet_common.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/inet_common.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ipv6.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/parse_mode.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/parse_mode.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/skip_whitespace.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/skip_whitespace.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/pwd2spwd.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/pwd2spwd.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/shadow_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/shadow_.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/speed_table.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/speed_table.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/read_package_field.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/read_package_field.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/my_getgrnam.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/my_getgrnam.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/grp_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/grp_.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/vfork_daemon_rexec.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/vfork_daemon_rexec.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/inode_hash.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/inode_hash.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/copy_file.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/copy_file.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/preserve/hardlinks.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xgetularg.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xgetularg.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/safe_strtol.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/safe_strtol.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/print_file.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/print_file.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/get_console.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/get_console.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/run_parts.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/run_parts.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/herror_msg_and_die.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/herror_msg_and_die.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/find_root_device.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/find_root_device.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/devfs.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/wfopen.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/wfopen.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/human_readable.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/human_readable.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/trim.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/trim.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/simplify_path.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/simplify_path.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/concat_subpath_file.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/concat_subpath_file.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/llist_add_to.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/llist_add_to.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/unarchive.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/getopt_ulflags.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/getopt_ulflags.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/make_directory.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/make_directory.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/mtab_file.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/mtab_file.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/mtab/support.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/mtab/filename.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/warn_ignoring_args.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/warn_ignoring_args.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/create_icmp6_socket.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/create_icmp6_socket.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ipv6.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/correct_password.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/correct_password.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/shadowpasswds.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/perror_msg_and_die.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/perror_msg_and_die.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/verror_msg.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/verror_msg.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/get_terminal_width_height.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/get_terminal_width_height.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/autowidth.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/mtab.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/mtab.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/process_escape_sequence.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/process_escape_sequence.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/isdirectory.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/isdirectory.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/login.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/login.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xgethostbyname2.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xgethostbyname2.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ipv6.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/syscalls.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/syscalls.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/error_msg_and_die.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/error_msg_and_die.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/my_getpwuid.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/my_getpwuid.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/vherror_msg.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/vherror_msg.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/parse_number.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/parse_number.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/bb_asprintf.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/bb_asprintf.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/full_read.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/full_read.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/safe_read.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/safe_read.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/safe_write.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/safe_write.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/my_getug.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/my_getug.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xconnect.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xconnect.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xgetlarg.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xgetlarg.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/chomp.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/chomp.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/inet_common.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/inet_common.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/inet_common.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/inet_common.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ipv6.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/default_error_retval.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/default_error_retval.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/concat_path_file.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/concat_path_file.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/setup_environment.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/setup_environment.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xfuncs.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xfuncs.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/remove_file.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/remove_file.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/restricted_shell.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/restricted_shell.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/copyfd.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/copyfd.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/ask_confirmation.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/ask_confirmation.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/fclose_nonstdin.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/fclose_nonstdin.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/perror_msg.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/perror_msg.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xgethostbyname.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xgethostbyname.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/fflush_stdout_and_exit.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/fflush_stdout_and_exit.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/recursive_action.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/recursive_action.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/loop.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/loop.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/obscure.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/obscure.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/last_char_is.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/last_char_is.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/create_icmp_socket.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/create_icmp_socket.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/full_write.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/full_write.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xreadlink.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xreadlink.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xregcomp.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xregcomp.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/wfopen_input.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/wfopen_input.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/find_mount_point.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/find_mount_point.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/qmodule.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/qmodule.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/find_pid_by_name.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/find_pid_by_name.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/selinux.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xgetcwd.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/xgetcwd.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/my_getgrgid.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/my_getgrgid.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/grp_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/grp_.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/kernel_version.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/kernel_version.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/dump.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/dump.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/dump.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/dump.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/messages.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/messages.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/printf.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/printf.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/fgets_str.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/fgets_str.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/change_identity.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/change_identity.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/safe_strncpy.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/safe_strncpy.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/procps.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/libbb/procps.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/selinux.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/sysklogd/klogd.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/sysklogd/klogd.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/sysklogd/syslogd.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/sysklogd/syslogd.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/rotate/logfile.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/remote/log.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ipc/syslog.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ipc/syslog/buffer/size.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/sysklogd/logger.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/sysklogd/logger.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/syslogd.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/sysklogd/logread.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/sysklogd/logread.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/logread/reduced/locking.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/realpath.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/realpath.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/chown.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/chown.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/mv.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/mv.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/df.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/df.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/human/readable.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/who.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/who.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/watch.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/watch.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/libcoreutils/cp_mv_stat.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/libcoreutils/cp_mv_stat.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/libcoreutils/xgetoptfile_sort_uniq.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/libcoreutils/xgetoptfile_sort_uniq.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/libcoreutils/getopt_mk_fifo_nod.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/libcoreutils/getopt_mk_fifo_nod.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/dd.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/dd.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/tee.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/tee.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/tee/use/block/io.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/sleep.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/sleep.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/fancy/sleep.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/test.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/test.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/test/64.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/dos2unix.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/dos2unix.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/true.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/true.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/date.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/date.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/date/isofmt.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/stty.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/stty.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/chmod.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/chmod.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/pwd.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/pwd.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/sync.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/sync.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/seq.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/seq.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/tty.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/tty.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/chroot.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/chroot.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/hostid.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/hostid.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/yes.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/yes.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/rmdir.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/rmdir.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/head.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/head.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/fancy/head.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/uuencode.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/uuencode.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/wc.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/wc.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/locale/support.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/whoami.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/whoami.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/cal.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/cal.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/locale/support.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/fold.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/fold.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/rm.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/rm.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/od.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/od.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/dump.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/dump.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/mkdir.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/mkdir.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/cut.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/cut.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/ls.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/ls.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/selinux.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ls/timestamps.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ls/sortfiles.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ls/followlinks.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/human/readable.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ls/filetypes.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ls/color.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/autowidth.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ls/recursive.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/locale/support.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ls/username.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/basename.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/basename.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/mknod.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/mknod.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/false.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/false.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/md5_sha1_sum.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/md5_sha1_sum.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/md5/sha1/sum/check.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/md5sum.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/sha1sum.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/install.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/install.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/usleep.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/usleep.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/tr.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/tr.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/uname.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/uname.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/cp.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/cp.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/id.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/id.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/selinux.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/echo.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/echo.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/fancy/echo.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/uudecode.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/uudecode.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/logname.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/logname.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/chgrp.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/chgrp.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/du.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/du.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/human/readable.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/du/defalt/blocksize/1k.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/mkfifo.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/mkfifo.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/cat.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/cat.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/uniq.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/uniq.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/expr.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/expr.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/env.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/env.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/length.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/length.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/dirname.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/dirname.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/cmp.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/cmp.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/sort.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/sort.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/printf.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/printf.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/ln.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/ln.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/tail.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/tail.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/fancy/tail.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/touch.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/coreutils/touch.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/shell/lash.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/shell/lash.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/locale/support.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/lash/pipe/n/redirects.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/lash/job/control.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/command/editing.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sh/standalone/shell.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sh/extra/quiet.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/shell/msh.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/shell/msh.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/command/editing.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sh/extra/quiet.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sh/standalone/shell.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/shell/hush.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/shell/hush.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/command/editing.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sh/standalone/shell.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sh/extra/quiet.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/shell/cmdedit.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/shell/cmdedit.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/../shell/cmdedit.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/../shell/cmdedit.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/locale/support.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/command/tab/completion.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/command/editing.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/command/username/completion.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/getusername/and/homedir.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/command/history.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/nonprintable/inverse/put.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/ash.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/command/savehistory.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/shell/ash.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/shell/ash.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/ash/job/control.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/ash/alias.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/ash/optimize/for/size.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/ash/math/support.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/ash/cmdcmd.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/ash/getopts.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sh/extra/quiet.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/ash/mail.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/ash/math/support/64.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/ash/random/support.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/locale/support.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/command/savehistory.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/command/editing.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sh/standalone/shell.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/command/tab/completion.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/deluser.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/deluser.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/shadowpasswds.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/su.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/su.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/utmp.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/selinux.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/delgroup.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/delgroup.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/deluser.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/shadowpasswds.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/login.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/login.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/selinux.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/utmp.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/securetty.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/wheel/group.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/wtmp.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/vlock.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/vlock.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/shadowpasswds.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/addgroup.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/addgroup.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/grp_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/grp_.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/shadowpasswds.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/adduser.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/delline.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/delline.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/adduser.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/adduser.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/shadowpasswds.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/addgroup.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/getty.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/getty.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/utmp.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/syslogd.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/wtmp.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/passwd.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/passwd.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/shadowpasswds.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/sulogin.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/loginutils/sulogin.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/shadowpasswds.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/fdisk.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/fdisk.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sun/label.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/sgi/label.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/aix/label.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/osf/label.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/fdisk/writable.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/fdisk/advanced.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/weird/partition/types.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/fdisk/blksize.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/hexdump.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/hexdump.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/dump.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/dump.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/fsck_minix.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/fsck_minix.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/minix2.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/fbset.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/fbset.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/fbset/fancy.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/fbset/readmode.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/more.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/more.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/use/termios.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/mkfs_minix.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/mkfs_minix.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/minix2.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/umount.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/umount.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/mount/force.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/mount/loop.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/mtab/support.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/pivot_root.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/pivot_root.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/nfsmount.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/nfsmount.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/fdflush.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/fdflush.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/mkswap.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/mkswap.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/swaponoff.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/swaponoff.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/mount.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/mount.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/nfsmount.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/mount/loop.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/mtab/support.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/fdformat.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/fdformat.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/losetup.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/losetup.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/freeramdisk.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/freeramdisk.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/rdate.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/rdate.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/getopt.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/getopt.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/dmesg.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/dmesg.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/hwclock.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/util-linux/hwclock.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/hwclock/longoptions.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/telnet.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/telnet.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/telnet/ttype.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/telnet/autologin.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/autowidth.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/telnetd.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/telnetd.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ipv6.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/login.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/telnetd/inetd.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/devpts.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/nslookup.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/nslookup.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/brctl.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/brctl.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ip.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ip.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ip/address.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ip/route.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ip/link.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ip/tunnel.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/wget.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/wget.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/wget/statusbar.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/wget/authentication.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/wget/ip6/literal.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/netstat.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/netstat.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/inet_common.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/inet_common.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/route.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ipv6.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ping6.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ping6.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/fancy/ping6.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/fancy/ping.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/httpd.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/httpd.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/lfs.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/httpd/usage/from/inetd/only.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/httpd/basic/auth.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/httpd/cgi.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/httpd/config/with/mime/types.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/httpd/encode/url/str.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/httpd/set/remote/port/to/env.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/httpd/auth/md5.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/httpd/reload/config/sighup.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/httpd/setuid.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/route.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/route.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/inet_common.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/inet_common.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ipv6.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ifconfig.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ifconfig.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/inet_common.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/inet_common.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ifconfig/slip.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ipv6.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ifconfig/broadcast/plus.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ifconfig/hw.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ifconfig/memstart/ioaddr/irq.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ifconfig/status.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ping.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ping.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/fancy/ping.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/nc.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/nc.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/nameif.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/nameif.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/vconfig.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/vconfig.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/traceroute.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/traceroute.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/inet_common.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/inet_common.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/traceroute/verbose.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/traceroute.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/traceroute/so/debug.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ifupdown.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ifupdown.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ifupdown/mapping.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ifupdown/ip.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ifupdown/ipx.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ifupdown/ipv6.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ifupdown/ipv4.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/hostname.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/hostname.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/iptunnel.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/iptunnel.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/inetd.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/inetd.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/inetd/support/biltin/echo.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/inetd/support/biltin/discard.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/inetd/support/biltin/time.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/inetd/support/biltin/daytime.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/inetd/support/biltin/chargen.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ipaddr.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ipaddr.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/utils.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/utils.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/ip_parse_common_args.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/ip_parse_common_args.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/iptunnel.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/iptunnel.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/ipaddress.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/ipaddress.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/libnetlink.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/libnetlink.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/iplink.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/iplink.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/iproute.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/iproute.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/ll_addr.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/libiproute/ll_addr.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/iplink.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/iplink.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ftpgetput.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ftpgetput.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/ftpget.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/ftpput.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/arping.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/arping.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/tftp.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/tftp.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/tftp/blocksize.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/tftp/debug.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/tftp/get.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/tftp/put.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/iproute.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/iproute.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ipcalc.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/networking/ipcalc.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/ipcalc/fancy.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/debianutils/run_parts.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/debianutils/run_parts.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/libbb.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/debianutils/which.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/debianutils/which.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/debianutils/readlink.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/debianutils/readlink.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/debianutils/start_stop_daemon.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/debianutils/start_stop_daemon.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/pwd_.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/debianutils/mktemp.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/debianutils/mktemp.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h)
+/home/jji315/mount1/qca_branch/apps/busybox-1.01/debianutils/pipe_progress.o: /home/jji315/mount1/qca_branch/apps/busybox-1.01/debianutils/pipe_progress.c \
+ /home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h $(dep_/home/jji315/mount1/qca_branch/apps/busybox-1.01/include/busybox.h) \
+   $(wildcard /home/jji315/mount1/qca_branch/config/feature/clean/up.h)

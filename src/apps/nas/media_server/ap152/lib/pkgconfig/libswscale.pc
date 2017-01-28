@@ -1,0 +1,14 @@
+prefix=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152
+exec_prefix=${prefix}
+libdir=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+includedir=${prefix}/include
+
+Name: libswscale
+Description: FFmpeg image rescaling library
+Version: 0.11.0
+Requires: libavutil = 50.15.1
+Requires.private: 
+Conflicts:
+Libs: -L${libdir} -lswscale 
+Libs.private: 
+Cflags: -I${includedir}

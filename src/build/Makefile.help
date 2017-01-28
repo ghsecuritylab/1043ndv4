@@ -1,0 +1,203 @@
+webs_localization_help:
+ifeq ($(MODULE_IPV6), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/IPV6/* $(MODULE_DIR)/tmpweb/help/
+endif
+
+ifeq ($(MODULE_BANDINGCTRL), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/BandingCtrl/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_COMMON), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/Common/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_DDNS), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/DDNS/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_DHCP), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/DHCP/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_FORWARDING), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/Forwarding/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_ACCESSCTRL), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/AccessCtrl/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_IP_MAC), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/IP_MAC/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_NAS), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/Nas/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_YANDEXDNS), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/Yandex_dns/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_PARENTCTRL), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/ParentCtrl/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_QUICKSETUP), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/QuickSetup/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_ROUTER), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/Router/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_SECURITY), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/Security/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_STATICROUTE), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/StaticRoute/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_SYSTOOL), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/SystemTool/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_AP), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/AP/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_WAN), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/WAN/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_WIRELESS), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/Wireless/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_WIRELESS_5G), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/Wireless_5G/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_WISP), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/WISP/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_WPS), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/WPS/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_WIRELESS), y)
+ifeq ($(MODULE_WIRELESS_5G), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/DualBand/* $(MODULE_DIR)/tmpweb/help/
+endif
+endif
+ifeq ($(MODULE_IPSEC_VPN), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/VPN/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_TR069), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/TR069/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_SNMP), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/SNMP/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_IGMP), y)
+ifeq ($(MODULE_VLAN_FOR_RUSSIA), n)
+	\cp -rf $(MODULE_DIR)/help/$(region)/IGMP/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_VLAN_FOR_TAIWAN), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/IGMP/* $(MODULE_DIR)/tmpweb/help/
+endif
+endif
+ifeq ($(MODULE_IGMP_V3), y)
+ifeq ($(MODULE_VLAN_FOR_RUSSIA), n)
+	\cp -rf $(MODULE_DIR)/help/$(region)/IGMPv3/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_VLAN_FOR_TAIWAN), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/IGMPv3/* $(MODULE_DIR)/tmpweb/help/
+endif
+endif
+ifeq ($(MODULE_RUSSIA_QUICK_SETUP), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/RussiaQuickSetup/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_GUEST_NETWORK), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/GuestNetwork/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_VLAN_FOR_WAN), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/VlanForWan/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_VLAN_FOR_BRIDGE), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/VlanForBridge/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_WAN_SPEED_ADJUST), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/WanSpeed/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_WAN_ARP_BINDING), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/WanArpBind/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_WLAN_STA_ADDRTYPE), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/WlanAddrType/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_NAT), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/NAT/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_HWNAT), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/HwNat/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_GUESTNETWORK_V2), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/guestNet/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_SMART_DMZ), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/SmartDMZ/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_QOS_IMPROVE), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/QosImprove/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_VLAN_FOR_RUSSIA), y)
+ifeq ($(MODULE_VLAN_FOR_TAIWAN), n)
+	\cp -rf $(MODULE_DIR)/help/$(region)/VlanForRussia/* $(MODULE_DIR)/tmpweb/help/
+else
+	\cp -rf $(MODULE_DIR)/help/$(region)/VlanForTaiwan/* $(MODULE_DIR)/tmpweb/help/
+endif
+endif
+ifeq ($(FEATURE_MS_VLAN), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/VlanForSingapore/* $(MODULE_DIR)/tmpweb/help/
+endif
+#Must put after other quicksetup modules
+ifeq ($(MODULE_QUICK_SETUP_IMPROVE), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/QuickSetup_improve/* $(MODULE_DIR)/tmpweb/help/
+endif
+#must put after ROUTER
+ifeq ($(MODULE_3G), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/3G/* $(MODULE_DIR)/tmpweb/help/
+endif
+
+ifeq ($(MODULE_VNM_FPT_PORTAL), y)
+	\cp -fr $(MODULE_DIR)/VNM_FPT_PORTAL/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_PORT_MIRROR), y)
+	\cp -fr $(MODULE_DIR)/PortMirror/* $(MODULE_DIR)/tmpweb/help/
+endif
+#Must put after common
+ifeq ($(FEATURE_FORCE_CHANGE_PSW), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/Login/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_SYSTOOL_DATETIME), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/NewDateTime/* $(MODULE_DIR)/tmpweb/help/
+endif
+ifeq ($(MODULE_HTTP_SESSION), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/Login/* $(MODULE_DIR)/tmpweb/help/
+endif
+#added by ZQQ, 2013.12.25 add for ISP AUTO CONFIG
+ifeq ($(MODULE_ISP_AUTO_CONF), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/IspAutoConfig/* $(MODULE_DIR)/tmpweb/help/
+endif
+#end add
+
+#ifeq ($(FEATURE_SHORT_SSID), y)
+#ifeq ($(MODULE_QUICK_SETUP_IMPROVE), y)
+#	cp -rf $(MODULE_DIR)/help/$(region)/shortSSID/QuickSetup_improve/* $(MODULE_DIR)/tmpweb/help/
+#lse ifeq ($(MODULE_WIRELESS_5G), y)
+#	\cp -rf $(MODULE_DIR)/help/$(region)/shortSSID/DualBand/* $(MODULE_DIR)/tmpweb/help/
+#else ifeq ($(MODULE_AP), y)
+#	\cp -rf $(MODULE_DIR)/help/$(region)/shortSSID/AP/* $(MODULE_DIR)/tmpweb/help/
+#else
+#	\cp -rf $(MODULE_DIR)/help/$(region)/shortSSID/Router/* $(MODULE_DIR)/tmpweb/help/
+#endif
+#endif
+#end short ssid
+
+#ifeq ($(MODULE_WIRELESS_AUTH), y)
+#	\cp -rf $(MODULE_DIR)/help/$(region)/wireless_auth/* $(MODULE_DIR)/tmpweb/help/
+#endif
+
+ifeq ($(MODULE_SESSION_REFRESH), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/Ctcontrol/* $(MODULE_DIR)/tmpweb/help/
+endif
+
+ifeq ($(FEATURE_AUTO_REBOOT), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/AutoReboot/* $(MODULE_DIR)/tmpweb/help/
+endif
+
+ifeq ($(FEATURE_LED_CONTROL), y)
+	\cp -rf $(MODULE_DIR)/help/$(region)/LedControl/* $(MODULE_DIR)/tmpweb/help/
+endif

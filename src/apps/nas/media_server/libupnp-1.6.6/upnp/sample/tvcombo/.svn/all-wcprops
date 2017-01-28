@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/sample/tvcombo
+END
+upnp_tv_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/sample/tvcombo/upnp_tv_device.h
+END
+upnp_tv_ctrlpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/sample/tvcombo/upnp_tv_ctrlpt.c
+END
+upnp_tv_ctrlpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/sample/tvcombo/upnp_tv_ctrlpt.h
+END
+upnp_tv_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/sample/tvcombo/upnp_tv_device.c
+END

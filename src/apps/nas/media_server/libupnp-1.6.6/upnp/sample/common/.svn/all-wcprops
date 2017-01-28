@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/sample/common
+END
+sample_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/sample/common/sample_util.c
+END
+sample_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/sample/common/sample_util.h
+END

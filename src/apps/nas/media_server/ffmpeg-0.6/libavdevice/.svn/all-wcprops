@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice
+END
+libdc1394.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/libdc1394.c
+END
+dv1394.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/dv1394.h
+END
+libavdevice.v
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/libavdevice.v
+END
+bktr.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/bktr.c
+END
+alsa-audio-common.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/alsa-audio-common.c
+END
+v4l.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/v4l.c
+END
+x11grab.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/x11grab.c
+END
+alsa-audio-dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/alsa-audio-dec.c
+END
+beosaudio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/beosaudio.cpp
+END
+alldevices.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/alldevices.c
+END
+alsa-audio-enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/alsa-audio-enc.c
+END
+alsa-audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/alsa-audio.h
+END
+oss_audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/oss_audio.c
+END
+avdevice.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/avdevice.c
+END
+vfwcap.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/vfwcap.c
+END
+v4l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/v4l2.c
+END
+jack_audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/jack_audio.c
+END
+dv1394.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/dv1394.c
+END
+avdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/avdevice.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/libavdevice/Makefile
+END

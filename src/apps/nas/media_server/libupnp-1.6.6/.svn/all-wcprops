@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6
+END
+libupnp.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/libupnp.pc.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/configure
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/LICENSE
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/ChangeLog
+END
+THANKS
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/THANKS
+END
+autoconfig.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/autoconfig.h.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/README
+END
+libupnp.spec
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/libupnp.spec
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/configure.ac
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/aclocal.m4
+END

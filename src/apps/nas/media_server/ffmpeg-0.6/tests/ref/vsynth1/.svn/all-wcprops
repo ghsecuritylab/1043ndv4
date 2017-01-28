@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1
+END
+h261
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/h261
+END
+h263
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/h263
+END
+snow
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/snow
+END
+dnxhd_1080i
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/dnxhd_1080i
+END
+flv
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/flv
+END
+error
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/error
+END
+rv20
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/rv20
+END
+svq1
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/svq1
+END
+huffyuv
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/huffyuv
+END
+mpeg2thread
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/mpeg2thread
+END
+dnxhd_720p_rd
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/dnxhd_720p_rd
+END
+h263p
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/h263p
+END
+rc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/rc
+END
+mpeg4thread
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/mpeg4thread
+END
+mpeg4adv
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/mpeg4adv
+END
+dv
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/dv
+END
+asv1
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/asv1
+END
+asv2
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/asv2
+END
+mpeg1b
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/mpeg1b
+END
+mpeg4nr
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/mpeg4nr
+END
+dnxhd_720p
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/dnxhd_720p
+END
+snowll
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/snowll
+END
+dv50
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/dv50
+END
+msmpeg4v2
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/msmpeg4v2
+END
+jpegls
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/jpegls
+END
+mpeg
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/mpeg
+END
+rv10
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/rv10
+END
+wmv1
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/wmv1
+END
+wmv2
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/wmv2
+END
+roq
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/roq
+END
+ljpeg
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/ljpeg
+END
+ffv1
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/ffv1
+END
+mjpeg
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/mjpeg
+END
+flashsv
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/flashsv
+END
+mpeg2
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/mpeg2
+END
+msmpeg4
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/msmpeg4
+END
+mpeg4
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ffmpeg-0.6/tests/ref/vsynth1/mpeg4
+END

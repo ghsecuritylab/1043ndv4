@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/LICENSE
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/upnp/Makefile.am
+END

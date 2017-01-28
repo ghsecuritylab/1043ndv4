@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/ChangeLog
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/compile
+END
+TODO.ntfsprogs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/TODO.ntfsprogs
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/config.guess
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/README
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/CREDITS
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/ltmain.sh
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/config.h.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/missing
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/aclocal.m4
+END
+COPYING.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/COPYING.LIB
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/ntfs-3g_ntfsprogs-2012.1.15/install-sh
+END

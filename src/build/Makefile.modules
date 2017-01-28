@@ -1,0 +1,1086 @@
+include Makefile.help
+
+ifndef FEATURE_SSID_POLAND
+export FEATURE_SSID_POLAND=n
+endif
+
+ifndef FEATURE_SHORT_SSID
+export FEATURE_SHORT_SSID=n
+endif
+
+ifndef FEATURE_SHORT_SSID_2MAC
+export FEATURE_SHORT_SSID_2MAC=n
+endif
+
+ifndef FEATURE_VNM_FPT_SSID
+export FEATURE_VNM_FPT_SSID=n
+endif
+ifndef FEATURE_RU_INTERSVYAZ_GUESTNETWORK
+export FEATURE_RU_INTERSVYAZ_GUESTNETWORK=n
+endif
+
+ifndef FEATURE_RU_INTERSVYAZ_SESSION
+export FEATURE_RU_INTERSVYAZ_SESSION=n
+endif
+
+ifndef FEATURE_ACL_ENHANCE
+export FEATURE_ACL_ENHANCE=n
+endif
+
+ifndef FEATURE_MSSID_WEP_FOR_VNM_SCTV
+export FEATURE_MSSID_WEP_FOR_VNM_SCTV=n
+endif
+
+ifndef FEATURE_USE_LAN_MAC_AS_PPPOE_USERNAME
+export FEATURE_USE_LAN_MAC_AS_PPPOE_USERNAME=n
+endif
+
+ifndef MODULE_WIRELESS_AUTH
+export MODULE_WIRELESS_AUTH=n
+endif
+
+ifndef FEATURE_MODE_GN
+export FEATURE_MODE_GN=n
+endif
+
+ifndef FEATURE_MODE_NAC
+export FEATURE_MODE_NAC=n
+endif
+
+ifndef FEATURE_IPV6_MO_BIT
+export FEATURE_IPV6_MO_BIT=n
+endif
+
+ifndef MODULE_SINGLE_USB_COMPLEX
+export MODULE_SINGLE_USB_COMPLEX=n
+endif
+
+ifndef MODULE_NEED_USB_CORE
+export MODULE_NEED_USB_CORE=n
+endif
+
+ifndef FEATURE_CHANGE_DUPLEXING_MODE
+export FEATURE_CHANGE_DUPLEXING_MODE=n
+endif
+
+# USB only support charge, but not support 3G/4G, you should never
+# use this macro with MODULE_3G
+ifndef MODULE_USB_IPAD_LITE
+export MODULE_USB_IPAD_LITE=n
+endif
+
+ifndef MODULE_3G
+export MODULE_3G=n
+endif
+
+ifndef MODULE_WOL
+export MODULE_WOL=n
+endif
+
+ifndef MODULE_AP
+export MODULE_AP=n
+endif
+
+ifndef MODULE_BANDINGCTRL
+export MODULE_BANDINGCTRL=n
+endif
+
+ifndef MODULE_COMMON
+export MODULE_COMMON=n
+endif
+
+ifndef MODULE_DDNS
+export MODULE_DDNS=n
+endif
+
+ifndef MODULE_DHCP
+export MODULE_DHCP=n 
+endif
+
+ifndef MODULE_FORWARDING
+export MODULE_FORWARDING=n
+endif
+
+ifndef MODULE_ACCESSCTRL
+export MODULE_ACCESSCTRL=n
+endif
+
+ifndef MODULE_IP_MAC
+export MODULE_IP_MAC=n
+endif
+
+ifndef FEATURE_MS_VLAN
+export FEATURE_MS_VLAN=n
+endif
+
+ifndef FEATURE_VIETTEL_VLAN
+export FEATURE_VIETTEL_VLAN=n
+endif
+
+ifndef MODULE_NAS
+export MODULE_NAS=n
+endif
+
+ifndef MODULE_FTP
+export MODULE_FTP=n
+endif
+
+ifndef MODULE_MEDIA_SERVER
+export MODULE_MEDIA_SERVER=n
+endif
+
+ifndef MODULE_PRINTER
+export MODULE_PRINTER=n
+endif
+
+ifndef MODULE_PARENTCTRL
+export MODULE_PARENTCTRL=n
+endif
+
+ifndef MODULE_YANDEXDNS
+export MODULE_YANDEXDNS=n
+endif
+
+ifndef MODULE_QUICKSETUP
+export MODULE_QUICKSETUP=n
+endif
+
+ifndef MODULE_ROUTER
+export MODULE_ROUTER=n
+endif
+
+ifndef MODULE_SECURITY
+export MODULE_SECURITY=n
+endif
+
+ifndef MODULE_STATICROUTE
+export MODULE_STATICROUTE=n
+endif
+
+ifndef MODULE_SYSTOOL
+export MODULE_SYSTOOL=n
+endif
+
+ifndef MODULE_WAN
+export MODULE_WAN=n
+endif
+
+ifndef MODULE_WIRELESS
+export MODULE_WIRELESS=n
+endif
+
+ifndef MODULE_WISP
+export MODULE_WISP=n
+endif
+
+ifndef MODULE_WPS
+export MODULE_WPS=n
+endif
+
+ifndef MODULE_IPV6
+export MODULE_IPV6=n
+endif
+
+ifndef MODULE_TR069
+export MODULE_TR069=n
+endif
+
+ifndef FEATURE_ALWAYS_BROADCAST_DHCP_REQUESTED_PACKET 
+export FEATURE_ALWAYS_BROADCAST_DHCP_REQUESTED_PACKET=n
+endif
+
+ifndef MODULE_IPSEC_VPN
+export MODULE_IPSEC_VPN=n
+endif
+
+ifndef MODULE_SNMP
+export MODULE_SNMP=n
+endif
+
+ifndef MODULE_IGMP
+export MODULE_IGMP=n
+endif
+
+ifndef MODULE_IGMP_V3
+export MODULE_IGMP_V3=n
+endif
+
+ifndef FEATURE_RSTRICT_WAN_IGMP_VERSION
+export FEATURE_RSTRICT_WAN_IGMP_VERSION=n
+endif
+
+ifndef FEATURE_ACCEPT_NON_PPP_MULTICAST_DATA
+export FEATURE_ACCEPT_NON_PPP_MULTICAST_DATA=n
+endif
+ifndef MODULE_ERASE_WAN_CFG
+export MODULE_ERASE_WAN_CFG=n
+endif
+
+ifndef MODULE_RUSSIA_PPP_DIAL
+export MODULE_RUSSIA_PPP_DIAL=n
+endif
+
+ifndef MODULE_RUSSIA_QUICK_SETUP
+export MODULE_RUSSIA_QUICK_SETUP=n
+endif
+
+ifndef MODULE_GUEST_NETWORK
+export MODULE_GUEST_NETWORK=n
+endif
+
+ifndef MODULE_VLAN_FOR_WAN
+export MODULE_VLAN_FOR_WAN=n
+endif
+
+ifndef MODULE_VLAN_FOR_BRIDGE
+export MODULE_VLAN_FOR_BRIDGE=n
+endif
+
+ifndef MODULE_TR069_HIDE
+export MODULE_TR069_HIDE=n
+endif
+
+ifndef FEATURE_TR069_SUPPORT_DSL_NODES
+export FEATURE_TR069_SUPPORT_DSL_NODES=n
+endif
+
+ifndef FEATURE_TR069_TRANSFERCOMPLETE_FPT
+export FEATURE_TR069_TRANSFERCOMPLETE_FPT=n
+endif
+
+ifndef FEATURE_TR069_ACLURL_EMPTY
+export FEATURE_TR069_ACLURL_EMPTY=n
+endif
+
+ifndef MODULE_DNS_APP
+export MODULE_DNS_APP=n
+endif
+
+ifndef MODULE_SMART_DHCP
+export MODULE_SMART_DHCP=n
+endif
+
+ifndef MODULE_TP_DOMAIN_V2
+export MODULE_TP_DOMAIN_V2=n
+endif
+
+ifndef MODULE_WAN_SPEED_ADJUST
+export MODULE_WAN_SPEED_ADJUST=n
+endif
+
+ifndef MODULE_WAN_ARP_BINDING 
+export MODULE_WAN_ARP_BINDING=n
+endif
+
+ifndef MODULE_DSA_SELECT
+export MODULE_DSA_SELECT=n
+endif
+
+ifndef MODULE_WLAN_STA_ADDRTYPE
+export MODULE_WLAN_STA_ADDRTYPE=n
+endif
+
+ifndef MODULE_WLAN_DUALBAND_ONE_STA_EN
+export MODULE_WLAN_DUALBAND_ONE_STA_EN=n
+endif
+
+ifndef MODULE_NAT
+export MODULE_NAT=n
+endif
+
+ifndef MODULE_HWNAT
+export MODULE_HWNAT=n
+endif
+
+ifndef MODULE_HWNAT_AP152
+export MODULE_HWNAT_AP152=n
+endif
+
+ifndef MODULE_WIRELESS_5G
+export MODULE_WIRELESS_5G=n
+endif
+
+ifndef MODULE_QUICKSETUP_AP
+export MODULE_QUICKSETUP_AP=n
+endif
+
+ifndef MODULE_GUESTNETWORK_V2
+export MODULE_GUESTNETWORK_V2=n
+endif
+
+ifndef FEATURE_NO_USB
+export FEATURE_NO_USB=n
+endif
+
+ifndef FEATURE_ANY_DOMAIN_LOGIN
+export FEATURE_ANY_DOMAIN_LOGIN=n
+endif
+
+ifndef MODULE_SMART_DMZ
+export MODULE_SMART_DMZ=n
+endif
+
+ifndef MODULE_QUICK_SETUP_IMPROVE
+export MODULE_QUICK_SETUP_IMPROVE=n
+endif
+
+ifndef MODULE_QOS_IMPROVE
+export MODULE_QOS_IMPROVE=n
+endif
+
+ifndef MODULE_DHCP_REQUEST_SAME_IP
+export MODULE_DHCP_REQUEST_SAME_IP=n
+endif
+
+ifndef MODULE_REFERER_ENABLE
+export MODULE_REFERER_ENABLE=n
+endif
+
+ifndef MODULE_SYSTOOL_DATETIME
+export MODULE_SYSTOOL_DATETIME=n
+endif
+
+ifndef MODULE_VLAN_FOR_RUSSIA
+export MODULE_VLAN_FOR_RUSSIA=n
+endif
+
+ifndef MODULE_VLAN_FOR_SPAN
+export MODULE_VLAN_FOR_SPAN=n
+endif
+
+ifndef MODULE_VLAN_FOR_TAIWAN
+export MODULE_VLAN_FOR_TAIWAN=n
+endif
+
+ifndef MODULE_VLAN_CONFIG_S17
+export MODULE_VLAN_CONFIG_S17=n
+endif
+
+ifndef FEATURE_VLAN_PVID_ADJUST
+export FEATURE_VLAN_PVID_ADJUST=n
+endif
+
+#added by ZQQ,2013.12.25
+ifndef MODULE_ISP_AUTO_CONF
+export MODULE_ISP_AUTO_CONF=n
+endif
+#end added
+
+ifndef MODULE_PORT_STATUS
+export MODULE_PORT_STATUS=n
+endif
+
+ifndef MODUEL_APR_SCAN
+export MODUEL_APR_SCAN=n
+endif
+
+ifndef MODULE_LOCAL_HTTP_IP_CONTROL
+export MODULE_LOCAL_HTTP_IP_CONTROL=n
+endif
+
+ifndef MODULE_VNM_FPT_PORTAL
+export MODULE_VNM_FPT_PORTAL=n
+endif
+
+ifndef MODULE_PORT_MIRROR
+export MODULE_PORT_MIRROR=n
+endif
+
+ifndef MODULE_MULTILINGUAL
+export MODULE_MULTILINGUAL=n
+endif
+
+ifndef FEATURE_SHARE_IPV4_PPPOE_ACCOUNT_WITH_IPV6
+export FEATURE_SHARE_IPV4_PPPOE_ACCOUNT_WITH_IPV6=n
+endif
+
+ifndef FEATURE_ISP_SINKNET
+export FEATURE_ISP_SINKNET=n
+endif
+
+ifndef FEATURE_ISP_BR_SKY
+export FEATURE_ISP_BR_SKY=n
+endif
+
+ifndef FEATURE_ISP_FILIPINE_GLOBE
+export FEATURE_ISP_FILIPINE_GLOBE=n
+endif
+
+#below is for some features, not as big as module
+ifndef FEATURE_SYSLOG_NEW
+export FEATURE_SYSLOG_NEW=n
+endif
+
+ifndef FEATURE_POWER_LED_BLINK
+export FEATURE_POWER_LED_BLINK=n
+endif
+
+ifndef FEATURE_MEDIA_SERVER_USE_MINIDLNA
+export FEATURE_MEDIA_SERVER_USE_MINIDLNA=n
+endif
+
+ifndef FEATURE_FORCE_CHANGE_PSW
+export FEATURE_FORCE_CHANGE_PSW=n
+endif
+
+ifndef FEATURE_SUPER_MGR_USER
+export FEATURE_SUPER_MGR_USER=n
+endif
+
+ifndef FEATURE_WEB_ACCESS_RANGE
+export FEATURE_WEB_ACCESS_RANGE=n
+endif
+
+ifndef FEATURE_SPEC_WAN_LOGIN
+export FEATURE_SPEC_WAN_LOGIN=n
+endif
+
+ifndef FEATURE_WAN_LOGIN
+export FEATURE_WAN_LOGIN=n
+endif
+
+ifndef FEATURE_UKRAINE_DNS
+export FEATURE_UKRAINE_DNS=n
+endif
+
+ifndef FEATURE_UKRAINE_DNS_FOR_WR842NDV2
+export FEATURE_UKRAINE_DNS_FOR_WR842NDV2=n
+endif
+
+ifndef FEATURE_UKRAINE_HIDDEN_REMOTE_CONTROL
+export FEATURE_UKRAINE_HIDDEN_REMOTE_CONTROL=n
+endif
+
+ifndef FEATURE_WLAN_STA_DETAIL
+export FEATURE_WLAN_STA_DETAIL=n
+endif
+
+ifndef FEATURE_SYSTEM_LED
+export FEATURE_SYSTEM_LED=n
+endif
+
+ifndef FEATURE_GPIO_SLOW_ETH_LED
+export FEATURE_GPIO_SLOW_ETH_LED=n
+endif
+
+ifndef FEATURE_SINGLE_PORT_ROUTER
+export FEATURE_SINGLE_PORT_ROUTER=n
+endif
+
+ifndef FEATURE_HW_RESET_MARK
+export FEATURE_HW_RESET_MARK=n
+endif
+
+ifndef FEATURE_RANDOM_WIFI_PSW
+export FEATURE_RANDOM_WIFI_PSW=n
+endif
+
+ifndef FEATURE_RST_SYSMODE
+export FEATURE_RST_SYSMODE=n
+endif
+
+ifndef FEATURE_CHECK_RSA_SIGNATURE
+export FEATURE_CHECK_RSA_SIGNATURE=n
+endif
+
+ifndef FEATURE_BACKUP_PRODUCTINFO
+export FEATURE_BACKUP_PRODUCTINFO=n
+endif
+
+ifndef HTTP_DEBUG
+export HTTP_DEBUG=n
+endif
+
+ifndef FEATURE_DUAL_LANGUAGE
+export FEATURE_DUAL_LANGUAGE=n
+endif
+
+ifndef FEATURE_LOCK_IPTABLES
+export FEATURE_LOCK_IPTABLES=n
+endif
+
+ifndef SPEC_DNS_FILTER
+export SPEC_DNS_FILTER=n
+endif
+
+ifndef FEATURE_UTILITY_NO_RESTART
+export FEATURE_UTILITY_NO_RESTART=n
+endif
+
+ifndef MODULE_HTTP_SESSION
+export MODULE_HTTP_SESSION=n
+endif
+
+ifndef FEATURE_NEED_CHECK_DOTDOT_URL
+export FEATURE_NEED_CHECK_DOTDOT_URL=n
+endif
+
+ifndef FEATURE_ENCRYPT_MD5
+export FEATURE_ENCRYPT_MD5=n
+endif
+
+ifndef MODULE_DROPBEAR
+export MODULE_DROPBEAR=n
+endif
+
+ifndef MODULE_SESSION_REFRESH
+export MODULE_SESSION_REFRESH=n
+endif
+
+ifndef FEATURE_TP_NEW_DOMAIN
+export FEATURE_TP_NEW_DOMAIN=n
+endif
+
+ifndef FEATURE_UN_VERSION_CHECK
+export FEATURE_UN_VERSION_CHECK=n
+endif
+
+ifndef MODULE_TMP
+export MODULE_TMP=n
+endif
+
+ifndef MODULE_FIRST_SET_TIMEZONE
+export MODULE_FIRST_SET_TIMEZONE=n
+endif
+
+ifndef MODULE_FIRST_SET_REGION
+export MODULE_FIRST_SET_REGION=n
+endif
+
+ifndef MODULE_FIRST_SET_REGION_845EN
+export MODULE_FIRST_SET_REGION_845EN=n
+endif
+
+ifndef MODULE_FIRST_SET_TIMEZONE_845EN
+export MODULE_FIRST_SET_TIMEZONE_845EN=n
+endif
+
+ifndef SPECIAL_ISP_DNS
+SPECIAL_ISP_DNS=n
+endif
+
+ifndef MODULE_TPAPP
+export MODULE_TPAPP=n
+endif
+
+ifndef MODULE_SPEED_BOOST
+export MODULE_SPEED_BOOST=n
+endif
+
+ifndef MODULE_RE
+export MODULE_RE=n
+endif
+
+ifndef MODULE_WPS_HOST_CLIENT_MULTIPLE
+export MODULE_WPS_HOST_CLIENT_MULTIPLE=n
+endif
+
+ifneq ($(MODULE_NVRAMMNGR), y)
+export MODULE_NVRAMMNGR=n
+endif
+
+ifndef MODULE_OPTION66
+export MODULE_OPTION66=n
+endif
+
+ifndef FEATURE_PPPOE_NO_CHECK
+export FEATURE_PPPOE_NO_CHECK=n
+endif
+
+ifndef FEATURE_AP_CHANFOLLOW
+export FEATURE_AP_CHANFOLLOW=n
+endif
+
+ifndef FEATURE_QUICK_SETUP_FOR802
+export FEATURE_QUICK_SETUP_FOR802=n
+endif
+
+ifndef FEATURE_SYS_US_EDITION
+export FEATURE_SYS_US_EDITION=n
+endif
+
+ifndef FEATURE_MR3420_RU_SIBERIAN_EDITION
+export FEATURE_MR3420_RU_SIBERIAN_EDITION=n
+endif
+
+ifndef lang
+export lang=en.conf
+endif
+
+#use for oem,universal UN/CN will not use it 
+ifndef USE_LOCALIZTION_PAGE
+export USE_LOCALIZTION_PAGE=n
+endif
+
+ifndef FEATURE_WEB_NEWUI
+export FEATURE_WEB_NEWUI=n
+endif
+
+ifndef FEATURE_COMPRESSED_WEBPAGE
+export FEATURE_COMPRESSED_WEBPAGE=n
+endif
+
+ifndef FEATURE_WAN_NO_L2TP
+export FEATURE_WAN_NO_L2TP=n
+endif
+
+ifndef FEATURE_WAN_NO_PPTP
+export FEATURE_WAN_NO_PPTP=n
+endif
+
+ifndef FEATURE_WAN_NO_BPA
+export FEATURE_WAN_NO_BPA=n
+endif
+
+ifndef FEATURE_GPIO_REG_CTL
+export FEATURE_GPIO_REG_CTL=n
+endif
+
+ifndef FEATURE_FS_SIZE_CUT
+export FEATURE_FS_SIZE_CUT=n
+endif
+
+ifndef FEATURE_SHORT_MAX_NODE_SAVEQ_LEN
+export FEATURE_SHORT_MAX_NODE_SAVEQ_LEN=n
+endif
+
+ifndef FEATURE_PIN_AS_PWD
+export FEATURE_PIN_AS_PWD=n
+endif
+
+ifndef FEATURE_US_CPI_SECURITY
+export FEATURE_US_CPI_SECURITY=n
+endif
+
+ifndef FEATURE_EXTEND_4M_FLASH_TO_8M
+export FEATURE_EXTEND_4M_FLASH_TO_8M=n
+endif
+
+ifndef FEATURE_FPT_WIFI_PORTAL
+export FEATURE_FPT_WIFI_PORTAL=n
+endif
+
+ifndef FEATURE_VNM_FPT_AUTH
+export FEATURE_VNM_FPT_AUTH=n
+endif
+
+ifndef FEATURE_AUTO_REBOOT
+export FEATURE_AUTO_REBOOT=n
+endif
+
+ifndef FEATURE_LED_CONTROL
+export FEATURE_LED_CONTROL=n
+endif
+
+ifndef FEATURE_SET_MAXSTA
+export FEATURE_SET_MAXSTA=n
+endif
+
+ifndef FEATURE_ROMANIA
+export FEATURE_ROMANIA=n
+endif
+
+ifndef FEATURE_WISP_MSSID
+export FEATURE_WISP_MSSID=n
+endif
+
+ifndef FEATURE_WEP_WORKAROUND
+export FEATURE_WEP_WORKAROUND=n
+endif
+
+ifndef FEATURE_WR841NV10_SCTV
+export FEATURE_WR841NV10_SCTV=n
+endif
+
+ifndef FEATURE_CTL_FOR_HP
+export FEATURE_CTL_FOR_HP=n
+endif
+
+ifndef FEATURE_RU_TELECOM
+export FEATURE_RU_TELECOM=n
+endif
+
+ifndef FEATURE_GUESTNETWORK_QOS_WARNING
+export FEATURE_GUESTNETWORK_QOS_WARNING=n
+endif
+
+ifndef FEATURE_US_REG_CHECK
+export FEATURE_US_REG_CHECK=n
+endif
+
+ifndef FEATURE_NO_BETA_WATERMARK
+export FEATURE_NO_BETA_WATERMARK=n
+endif
+
+ifndef FEATURE_FULL_SOFTWARE_VERSION
+export FEATURE_FULL_SOFTWARE_VERSION=n
+endif
+
+ifndef FEATURE_SKIP_ISP_AUTO_CONF
+export FEATURE_SKIP_ISP_AUTO_CONF=n
+endif
+
+ifndef FEATURE_841V11_HORADADA
+export FEATURE_841V11_HORADADA=n
+endif
+
+ifndef FEATURE_UPGRADE_WR802V2
+export FEATURE_UPGRADE_WR802V2=n
+endif
+
+# include module config file, it will tell you which modules
+# will need to be compiled
+#include $(TOPDIR)/build/scripts/$(DEV_NAME)/modules.config
+include $(PRODUCT_CONFIG_DIR)/modules.config
+
+export WEBS=webs
+ifeq ($(FEATURE_WEB_NEWUI), y)
+export WEBDIR=$(TOPDIR)/$(WEBS)/web_pages_new/
+ifeq ($(GPL_BUILD), y)
+export GPL_WEBDIR=$(GPL_DIR)/$(WEBS)/web_pages_new/
+endif
+else
+export WEBDIR=$(TOPDIR)/$(WEBS)/web_pages/
+ifeq ($(GPL_BUILD), y)
+export GPL_WEBDIR=$(GPL_DIR)/$(WEBS)/web_pages/
+endif
+endif
+export MODULE_DIR=$(WEBDIR)/$(lang)
+ifeq ($(GPL_BUILD), y)
+export GPL_MODULE_DIR=$(GPL_WEBDIR)/$(lang)
+endif
+
+
+#added by ZQQ,2014.8.29, for wireless certification software building, such as CCA certification.
+ifeq ($(CONFIG_WIRELESS_CERTIFICATION), 1)
+MODULE_WIRELESS_AUTH=y
+MODULE_DSA_SELECT=y
+MODULE_HTTP_SESSION=n
+endif
+#end added by ZQQ
+
+ifneq ($(MODULE_VLAN_FOR_WAN), y)
+MODULE_VLAN_FOR_BRIDGE=n
+endif
+
+ifneq ($(MODULE_NAT), y)
+MODULE_HWNAT=n
+MODULE_HWNAT_AP152=n
+endif
+
+ifeq ($(MODULE_SNMP), y)
+BOARD_APPLICATIONS += snmp
+endif
+
+ifeq ($(MODULE_3G),y)
+BOARD_KERNEL_MODULES += kernel_debug
+ifeq ($(MODULE_SINGLE_USB_COMPLEX), y)
+BOARD_KERNEL_MODULES += usb_serial_new
+else
+BOARD_KERNEL_MODULES += usb_serial 
+#usb_storage
+endif
+BOARD_APPLICATIONS += 3g_tools
+endif
+
+#changed by ZQQ, 2014.11.20, seperate the functions.
+ifeq ($(MODULE_NAS), y)
+BOARD_APPLICATIONS += nas
+endif
+
+ifeq ($(MODULE_FTP), y)
+BOARD_APPLICATIONS += ftpserver
+endif
+
+ifeq ($(MODULE_MEDIA_SERVER), y)
+ifeq ($(FEATURE_MEDIA_SERVER_USE_MINIDLNA), y)
+BOARD_APPLICATIONS += minidlna
+else
+BOARD_APPLICATIONS += ushare
+endif
+endif
+
+ifeq ($(MODULE_PRINTER), y)
+BOARD_APPLICATIONS += NetUSB_Kcodes
+endif
+#end changed by ZQQ, 2014.11.20
+
+ifeq ($(MODULE_IPSEC_VPN), y)
+BOARD_KERNEL_MODULES += ipsec_mod
+BOARD_APPLICATIONS += flex libssl ipsec
+endif
+
+ifeq ($(MODULE_GUESTNETWORK_V2), y)
+BOARD_KERNEL_MODULES += br_guest_filter br_guest_mark
+endif
+
+ifeq ($(MODULE_IPV6), y)
+BOARD_APPLICATIONS += ipv6_tools
+BOARD_KERNEL_MODULES += ipv6_netfilter ipv6_modules
+endif
+
+ifeq ($(MODULE_DROPBEAR), y)
+BOARD_APPLICATIONS += dropbear_build
+endif
+
+ifeq ($(MODULE_SESSION_REFRESH), y)
+BOARD_KERNEL_MODULES += ct_flush
+endif
+
+webs_modules_package:
+ifeq ($(MODULE_IPV6), y)
+	\cp -rf $(MODULE_DIR)/IPV6/* $(MODULE_DIR)/tmpweb
+endif
+
+ifeq ($(MODULE_BANDINGCTRL), y)
+	\cp -rf $(MODULE_DIR)/BandingCtrl/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_COMMON), y)
+	\cp -rf $(MODULE_DIR)/Common/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_DDNS), y)
+	\cp -rf $(MODULE_DIR)/DDNS/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_DHCP), y)
+	\cp -rf $(MODULE_DIR)/DHCP/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_FORWARDING), y)
+	\cp -rf $(MODULE_DIR)/Forwarding/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_ACCESSCTRL), y)
+	\cp -rf $(MODULE_DIR)/AccessCtrl/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_IP_MAC), y)
+	\cp -rf $(MODULE_DIR)/IP_MAC/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_NAS), y)
+	\cp -rf $(MODULE_DIR)/Nas/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_YANDEXDNS), y)
+	\cp -rf $(MODULE_DIR)/Yandex_dns/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_PARENTCTRL), y)
+	\cp -rf $(MODULE_DIR)/ParentCtrl/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_QUICKSETUP), y)
+	\cp -rf $(MODULE_DIR)/QuickSetup/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_ROUTER), y)
+	\cp -rf $(MODULE_DIR)/Router/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_SECURITY), y)
+	\cp -rf $(MODULE_DIR)/Security/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_STATICROUTE), y)
+	\cp -rf $(MODULE_DIR)/StaticRoute/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_SYSTOOL), y)
+	\cp -rf $(MODULE_DIR)/SystemTool/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_AP), y)
+	\cp -rf $(MODULE_DIR)/AP/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_WAN), y)
+	\cp -rf $(MODULE_DIR)/WAN/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_WIRELESS), y)
+	\cp -rf $(MODULE_DIR)/Wireless/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_WIRELESS_5G), y)
+	\cp -rf $(MODULE_DIR)/Wireless_5G/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_WISP), y)
+	\cp -rf $(MODULE_DIR)/WISP/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_WPS), y)
+	\cp -rf $(MODULE_DIR)/WPS/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_WIRELESS), y)
+ifeq ($(MODULE_WIRELESS_5G), y)
+	\cp -rf $(MODULE_DIR)/DualBand/* $(MODULE_DIR)/tmpweb
+endif
+endif
+ifeq ($(MODULE_IPSEC_VPN), y)
+	\cp -rf $(MODULE_DIR)/VPN/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_TR069), y)
+	\cp -rf $(MODULE_DIR)/TR069/* $(MODULE_DIR)/tmpweb
+	#copy the param.xml from oem folder, by ZQQ, 2015.5.26	
+	if test -e $(MODULE_DIR)/oem/$(oem_dir)/tr069/param.xml; then cp $(MODULE_DIR)/oem/$(oem_dir)/tr069/param.xml $(INSTALL_ROOT_FOR_BOARD)/etc/tr069/; fi
+	#end by ZQQ
+endif
+ifeq ($(MODULE_SNMP), y)
+	\cp -rf $(MODULE_DIR)/SNMP/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_IGMP), y)
+ifeq ($(MODULE_VLAN_FOR_RUSSIA), n)
+	\cp -rf $(MODULE_DIR)/IGMP/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_VLAN_FOR_TAIWAN), y)
+	\cp -rf $(MODULE_DIR)/IGMP/* $(MODULE_DIR)/tmpweb
+endif
+endif
+ifeq ($(MODULE_IGMP_V3), y)
+ifeq ($(MODULE_VLAN_FOR_RUSSIA), n)
+	\cp -rf $(MODULE_DIR)/IGMPv3/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_VLAN_FOR_TAIWAN), y)
+	\cp -rf $(MODULE_DIR)/IGMPv3/* $(MODULE_DIR)/tmpweb
+endif
+endif
+ifeq ($(MODULE_RUSSIA_QUICK_SETUP), y)
+	\cp -rf $(MODULE_DIR)/RussiaQuickSetup/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_GUEST_NETWORK), y)
+	\cp -rf $(MODULE_DIR)/GuestNetwork/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_VLAN_FOR_WAN), y)
+	\cp -rf $(MODULE_DIR)/VlanForWan/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_VLAN_FOR_BRIDGE), y)
+	\cp -rf $(MODULE_DIR)/VlanForBridge/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_WAN_SPEED_ADJUST), y)
+	\cp -rf $(MODULE_DIR)/WanSpeed/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_WAN_ARP_BINDING), y)
+	\cp -rf $(MODULE_DIR)/WanArpBind/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_WLAN_STA_ADDRTYPE), y)
+	\cp -rf $(MODULE_DIR)/WlanAddrType/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_NAT), y)
+	\cp -rf $(MODULE_DIR)/NAT/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_HWNAT), y)
+	\cp -rf $(MODULE_DIR)/HwNat/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_GUESTNETWORK_V2), y)
+	\cp -rf $(MODULE_DIR)/guestNet/* $(MODULE_DIR)/tmpweb
+ifeq ($(FEATURE_NO_USB), y)
+	\rm -rf $(MODULE_DIR)/tmpweb/userRpm/GuestNetFolderAdvRpm.htm
+	\rm -rf $(MODULE_DIR)/tmpweb/userRpm/GuestNetUsbCfgRpm.htm
+	\rm -rf $(MODULE_DIR)/tmpweb/userRpm/GuestNetUserModifyRpm.htm
+	
+	\rm -rf $(MODULE_DIR)/tmpweb/help/GuestNetFolderAdvHelpRpm.htm
+	\rm -rf $(MODULE_DIR)/tmpweb/help/GuestNetUsbCfgHelpRpm.htm
+endif
+endif
+ifeq ($(MODULE_SMART_DMZ), y)
+	\cp -rf $(MODULE_DIR)/SmartDMZ/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_QOS_IMPROVE), y)
+	\cp -rf $(MODULE_DIR)/QosImprove/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_VLAN_FOR_RUSSIA), y)
+ifeq ($(MODULE_VLAN_FOR_TAIWAN), n)
+	\cp -rf $(MODULE_DIR)/VlanForRussia/* $(MODULE_DIR)/tmpweb
+else
+	\cp -rf $(MODULE_DIR)/VlanForTaiwan/* $(MODULE_DIR)/tmpweb
+endif
+endif
+ifeq ($(FEATURE_MS_VLAN), y)
+	\cp -rf $(MODULE_DIR)/VlanForSingapore/* $(MODULE_DIR)/tmpweb
+endif
+#Must put after other quicksetup modules
+ifeq ($(MODULE_QUICK_SETUP_IMPROVE), y)
+	\cp -rf $(MODULE_DIR)/QuickSetup_improve/* $(MODULE_DIR)/tmpweb
+endif
+#must put after ROUTER
+ifeq ($(MODULE_3G), y)
+	\cp -rf $(MODULE_DIR)/3G/* $(MODULE_DIR)/tmpweb
+endif
+
+ifeq ($(MODULE_VNM_FPT_PORTAL), y)
+	\cp -fr $(MODULE_DIR)/VNM_FPT_PORTAL/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_PORT_MIRROR), y)
+	\cp -fr $(MODULE_DIR)/PortMirror/* $(MODULE_DIR)/tmpweb
+endif
+#Must put after common
+ifeq ($(FEATURE_FORCE_CHANGE_PSW), y)
+	\cp -rf $(MODULE_DIR)/Login/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_SYSTOOL_DATETIME), y)
+	\cp -rf $(MODULE_DIR)/NewDateTime/* $(MODULE_DIR)/tmpweb
+endif
+ifeq ($(MODULE_HTTP_SESSION), y)
+	\cp -rf $(MODULE_DIR)/Login/* $(MODULE_DIR)/tmpweb
+endif
+#added by ZQQ, 2013.12.25 add for ISP AUTO CONFIG
+ifeq ($(MODULE_ISP_AUTO_CONF), y)
+	\cp -rf $(MODULE_DIR)/IspAutoConfig/* $(MODULE_DIR)/tmpweb
+endif
+#end add
+
+ifeq ($(FEATURE_SHORT_SSID), y)
+ifeq ($(MODULE_QUICK_SETUP_IMPROVE), y)
+	\cp -rf $(MODULE_DIR)/shortSSID/QuickSetup_improve/* $(MODULE_DIR)/tmpweb
+else ifeq ($(MODULE_WIRELESS_5G), y)
+	\cp -rf $(MODULE_DIR)/shortSSID/DualBand/* $(MODULE_DIR)/tmpweb
+else ifeq ($(MODULE_AP), y)
+	\cp -rf $(MODULE_DIR)/shortSSID/AP/* $(MODULE_DIR)/tmpweb
+else
+	\cp -rf $(MODULE_DIR)/shortSSID/Router/* $(MODULE_DIR)/tmpweb
+endif
+endif
+#end short ssid
+
+ifeq ($(MODULE_WIRELESS_AUTH), y)
+	\cp -rf $(MODULE_DIR)/wireless_auth/* $(MODULE_DIR)/tmpweb
+endif
+
+ifeq ($(MODULE_SESSION_REFRESH), y)
+	\cp -rf $(MODULE_DIR)/Ctcontrol/* $(MODULE_DIR)/tmpweb
+endif
+
+ifeq ($(FEATURE_AUTO_REBOOT), y)
+	\cp -rf $(MODULE_DIR)/AutoReboot/* $(MODULE_DIR)/tmpweb
+endif
+
+ifeq ($(FEATURE_LED_CONTROL), y)
+	\cp -rf $(MODULE_DIR)/LedControl/* $(MODULE_DIR)/tmpweb
+endif
+
+ifneq ($(origin refer_dir), undefined)
+	\cp -rf $(MODULE_DIR)/oem/$(refer_dir)/* $(MODULE_DIR)/tmpweb
+ifeq ($(FEATURE_WEB_NEWUI), y)
+	\cp -rf $(MODULE_DIR)/oem/$(refer_dir)/Common/* $(MODULE_DIR)/tmpweb
+	\rm -r  $(MODULE_DIR)/tmpweb/Common
+endif
+endif
+
+	\cp -rf $(MODULE_DIR)/oem/$(oem_dir)/* $(MODULE_DIR)/tmpweb
+
+#for oem, localization pages
+ifeq ($(USE_LOCALIZTION_PAGE), y)
+	\cp -rf $(MODULE_DIR)/oem/$(oem_dir)/$(lang_dir)/* $(MODULE_DIR)/tmpweb
+endif
+
+ifeq ($(FEATURE_WEB_NEWUI), y)
+	\$(TOPDIR)/util/webCompress/yuicompressor.sh $(MODULE_DIR)/tmpweb
+	
+ifeq ($(lang), lo)
+	make webs_localization_help
+endif
+	
+endif
+
+ifeq ($(FEATURE_COMPRESSED_WEBPAGE), y)
+	\$(TOPDIR)/util/webCompress/yuicompressor.sh $(MODULE_DIR)/tmpweb
+endif
+
+#3g.js should not be compressed
+ifeq ($(MODULE_3G), y)
+ifeq ($(FEATURE_WEB_NEWUI), y)
+	\cp -rf $(MODULE_DIR)/3G/localiztion/3g.js $(MODULE_DIR)/tmpweb/localiztion
+ifneq ($(origin refer_dir), undefined)
+	\cp -rf $(MODULE_DIR)/oem/$(refer_dir)/localiztion/3g.js $(MODULE_DIR)/tmpweb/localiztion
+endif
+endif
+endif
+
+#option66
+ifeq ($(MODULE_OPTION66), y)
+	\cp -rf $(MODULE_DIR)/option66/* $(MODULE_DIR)/tmpweb
+endif

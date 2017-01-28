@@ -1,0 +1,617 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/18163/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0
+END
+sql.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/sql.c
+END
+upnpglobalvars.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/upnpglobalvars.c
+END
+options.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/options.h
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/utils.c
+END
+playlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/playlist.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/Makefile.in
+END
+minidlna.conf.5
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/minidlna.conf.5
+END
+config.rpath
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/config.rpath
+END
+image_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/products_sohoi_platform_v1/!svn/ver/17185/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/image_utils.c
+END
+sql.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/sql.h
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/AUTHORS
+END
+upnpglobalvars.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/upnpglobalvars.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/utils.h
+END
+uuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/uuid.c
+END
+playlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/playlist.h
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/depcomp
+END
+image_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/image_utils.h
+END
+upnpevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/upnpevents.c
+END
+.built_check
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/.built_check
+END
+.prepared_60652f6d367ae57582552b7bce2002f2_check
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/.prepared_60652f6d367ae57582552b7bce2002f2_check
+END
+uuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/uuid.h
+END
+daemonize.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/daemonize.c
+END
+icons.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/icons.c
+END
+upnpevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/upnpevents.h
+END
+external_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/products_sohoi_platform_v1/!svn/ver/17185/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/external_lib.h
+END
+scanner_sqlite.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/scanner_sqlite.h
+END
+daemonize.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/daemonize.h
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/configure.ac
+END
+ABOUT-NLS
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/ABOUT-NLS
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/COPYING
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/NEWS
+END
+tivo_commands.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/tivo_commands.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/ChangeLog
+END
+albumart.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17185/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/albumart.c
+END
+tivo_commands.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/tivo_commands.h
+END
+testupnpdescgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/testupnpdescgen.c
+END
+.built
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/.built
+END
+albumart.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/albumart.h
+END
+minixml.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/minixml.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/config.h.in
+END
+metadata.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17923/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/metadata.c
+END
+upnphttp.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/18163/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/upnphttp.c
+END
+minixml.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/minixml.h
+END
+Makefile.am.bak
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/Makefile.am.bak
+END
+minidlnatypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/minidlnatypes.h
+END
+metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/metadata.h
+END
+minissdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/minissdp.c
+END
+upnphttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/upnphttp.h
+END
+scanner.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/17923/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/scanner.c
+END
+minissdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/minissdp.h
+END
+minidlna.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17924/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/minidlna.c
+END
+Makefile.in.bak
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/Makefile.in.bak
+END
+scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/scanner.h
+END
+sendfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/sendfile.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/configure
+END
+tivo_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/tivo_utils.c
+END
+tivo_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/tivo_utils.h
+END
+daemonize.c.bak
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/daemonize.c.bak
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/config.guess
+END
+upnpdescgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/upnpdescgen.c
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/config.sub
+END
+tags
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/tags
+END
+cscope.po.out
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/cscope.po.out
+END
+ubus.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/ubus.c
+END
+upnpdescgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/upnpdescgen.h
+END
+codelength.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/codelength.h
+END
+inotify.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/17185/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/inotify.c
+END
+LICENCE.miniupnpd
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/LICENCE.miniupnpd
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/INSTALL
+END
+inotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/inotify.h
+END
+.dep_files
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/.dep_files
+END
+tivo_beacon.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/tivo_beacon.c
+END
+upnpreplyparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/upnpreplyparse.c
+END
+getifaddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/getifaddr.c
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/autogen.sh
+END
+tivo_beacon.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/tivo_beacon.h
+END
+upnpreplyparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/upnpreplyparse.h
+END
+minidlna.conf
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/minidlna.conf
+END
+getifaddr.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/getifaddr.h
+END
+clients.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/clients.c
+END
+cscope.out
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/cscope.out
+END
+libav.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/libav.h
+END
+upnpsoap.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/18155/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/upnpsoap.c
+END
+clients.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/clients.h
+END
+cscope.in.out
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/cscope.in.out
+END
+stamp-h1
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/stamp-h1
+END
+upnpsoap.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/upnpsoap.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/README
+END
+.prepared_60652f6d367ae57582552b7bce2002f2
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/.prepared_60652f6d367ae57582552b7bce2002f2
+END
+minidlnapath.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/minidlnapath.h
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/log.c
+END
+.configured_
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/.configured_
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/.gitignore
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/TODO
+END
+minidlnad.8
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/minidlnad.8
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/log.h
+END
+minidlna.c.bak
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/minidlna.c.bak
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/Makefile.am
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/options.c
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/products_sohoi_platform_v1/!svn/ver/17059/boards/model_qca/apps/nas/media_server/minidlna-1.1.0/minidlna-1.1.0/install-sh
+END

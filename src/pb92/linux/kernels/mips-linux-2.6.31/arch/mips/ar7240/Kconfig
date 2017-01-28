@@ -1,0 +1,7 @@
+#
+# USB LED control config
+#
+
+config AP_USB_LED_GPIO
+	bool
+        default y

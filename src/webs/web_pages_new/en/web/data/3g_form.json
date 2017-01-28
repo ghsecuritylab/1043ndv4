@@ -1,0 +1,11 @@
+{
+	"success":	true,
+	"timeout":	false,
+	"data":	{
+		"3gtype":		"WAN Only",
+		"3glocation":	12,
+		"3gisp_num":	1,
+		"3gip":			"192.168.0.1",
+		"3ggateway":	"255.255.255.0"
+	}
+}

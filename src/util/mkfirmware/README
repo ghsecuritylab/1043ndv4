@@ -1,0 +1,9 @@
+分发程序需要把 bin 下面的文件一起分发，但 webc 和 config 不是必需的。
+
+分发密码的方法：
+
+mkfirmware -a 工号
+
+输入 Administrator 密码 cannotopenfile
+
+屏幕上出现此工号的密码。

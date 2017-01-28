@@ -1,0 +1,5 @@
+wr1043ndv4_un: httpd_build
+	make apxxfus_fs_prep enet=ag7240 lang=en oem_dir=WR1043ND4.0
+	make mk_squashfs_build fs_size=0xEC0000
+	make image_build prefix=wr1043ndv4_eu
+

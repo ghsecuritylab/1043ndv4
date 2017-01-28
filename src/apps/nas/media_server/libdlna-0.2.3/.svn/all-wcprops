@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/configure
+END
+test-libdlna.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/test-libdlna.c
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/COPYING
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/README
+END

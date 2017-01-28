@@ -1,0 +1,16 @@
+README:
+
+1. To Build both Toolchain and Firmware image: 
+   1.1 Host Ubuntu 12.04 or higher (Linux kernel 3.2.0) on x86 machine
+   1.2 Compiling tool version: gcc 4.6.3 or higher, GNU Make version 3.81
+
+2. Put the package gpl_wr1043ndv4_un.tar.gz to a directory such as /home/TP-LINK, then extract the compressed files.
+   $ cd /home/TP-LINK
+   $ tar xzvf gpl_wr1043ndv4_un.tar.gz
+
+To Build Firmware image:
+   1.1 Go to gpl_wr1043ndv4_un build folder and execute make.
+   $ cd /home/TP-LINK/gpl_wr1043ndv4_un/build
+   $ make
+   will generate the wr1043ndv4_un_(xxx).bin, under gpl_wr1043ndv4_un/images/wr1043ndv4_un folder. 
+   xxx refers to flash, up or up_boot, with specific time-stamp and version info.

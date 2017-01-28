@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/products_sohoi_platform_v1/!svn/ver/19294/boards/model_qca/apps/nas/media_server/ushare-1.1a/src
+END
+trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/trace.c
+END
+serveForHttpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/products_sohoi_platform_v1/!svn/ver/19294/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/serveForHttpd.c
+END
+msr.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/msr.c
+END
+trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/trace.h
+END
+serveForHttpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/serveForHttpd.h
+END
+ushare.1
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/ushare.1
+END
+msr.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/msr.h
+END
+cds.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/cds.c
+END
+util_iconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/util_iconv.c
+END
+presentation.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/presentation.c
+END
+cds.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/cds.h
+END
+http.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/http.c
+END
+ctrl_telnet.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/ctrl_telnet.c
+END
+util_iconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/util_iconv.h
+END
+presentation.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/presentation.h
+END
+services.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/services.c
+END
+ctrl_telnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/ctrl_telnet.h
+END
+http.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/http.h
+END
+services.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/services.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/Makefile
+END
+minmax.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/minmax.h
+END
+redblack.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/redblack.c
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/buffer.c
+END
+osdep.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/osdep.c
+END
+content.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/content.c
+END
+cfgparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/cfgparser.c
+END
+redblack.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/redblack.h
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/buffer.h
+END
+osdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/osdep.h
+END
+content.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/content.h
+END
+metadata.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/metadata.c
+END
+cfgparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/cfgparser.h
+END
+cms.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/cms.c
+END
+metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/metadata.h
+END
+cms.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/cms.h
+END
+mime.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/mime.c
+END
+ushare.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/ushare.c
+END
+gettext.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/gettext.h
+END
+ushare.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/ushare.h
+END
+mime.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/ushare-1.1a/src/mime.h
+END

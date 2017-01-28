@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#RPM_DIR=$INSTALL_ROOT_FOR_BOARD/web/userRpm
+#find $RPM_DIR -name "*.htm" | xargs sed -i '/^\s*$/d'
+
+#HELP_DIR=$INSTALL_ROOT_FOR_BOARD/web/help
+#find $HELP_DIR -name "*.htm" | xargs sed -i '/^\s*$/d'
+
+WEB_DIR=$INSTALL_ROOT_FOR_BOARD/web
+find $WEB_DIR -name "*.htm" | xargs sed -i '/^\s*$/d'
+
+

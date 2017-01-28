@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/ixml/test/testdata
+END
+empty_attribute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/ixml/test/testdata/empty_attribute.xml
+END
+tvcontrolSCPD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/ixml/test/testdata/tvcontrolSCPD.xml
+END
+tvdevicedesc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/ixml/test/testdata/tvdevicedesc.xml
+END
+p43pass1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/ixml/test/testdata/p43pass1.xml
+END
+tvpictureSCPD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libupnp-1.6.6/ixml/test/testdata/tvpictureSCPD.xml
+END

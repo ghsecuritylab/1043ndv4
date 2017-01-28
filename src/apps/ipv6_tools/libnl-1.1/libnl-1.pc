@@ -1,0 +1,10 @@
+prefix=/home/project/branch_ipv6_osprey/build/../apps/ipv6_tools/install_libnl-1.1_mips
+exec_prefix=/home/project/branch_ipv6_osprey/build/../apps/ipv6_tools/install_libnl-1.1_mips
+libdir=${exec_prefix}/lib
+includedir=/home/project/branch_ipv6_osprey/build/../apps/ipv6_tools/install_libnl-1.1_mips/include
+
+Name: libnl
+Description: Convenience library for netlink sockets
+Version: 1.1
+Libs: -L${libdir} -lnl
+Cflags:

@@ -1,0 +1,10 @@
+{
+	"success":	true,
+	"timeout":	false,
+	"data":	{
+		"internet_conn_status":	2,
+		"wireless_clients_count":	17,
+		"wire_clients_count":	21
+	}
+}
+

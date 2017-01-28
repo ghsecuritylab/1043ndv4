@@ -1,0 +1,14 @@
+prefix=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152
+exec_prefix=${prefix}
+libdir=/home/jji315/mount1/qca_branch/build/../apps/nas/media_server/ap152/lib
+includedir=${prefix}/include
+
+Name: libavdevice
+Description: FFmpeg device handling library
+Version: 52.2.0
+Requires: libavformat = 52.64.2
+Requires.private: 
+Conflicts:
+Libs: -L${libdir} -lavdevice -lm
+Libs.private: 
+Cflags: -I${includedir}

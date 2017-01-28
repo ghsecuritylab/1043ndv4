@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src
+END
+audio_atrac3.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/audio_atrac3.c
+END
+av_mpeg1.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/av_mpeg1.c
+END
+av_mpeg2.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/av_mpeg2.c
+END
+audio_amr.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/audio_amr.c
+END
+dlna_internals.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/dlna_internals.h
+END
+image_tp_def.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/image_tp_def.c
+END
+audio_wma.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/audio_wma.c
+END
+audio_aac.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/audio_aac.c
+END
+containers.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/containers.c
+END
+audio_g726.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/audio_g726.c
+END
+av_mpeg4_part2.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/av_mpeg4_part2.c
+END
+containers.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/containers.h
+END
+audio_lpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/audio_lpcm.c
+END
+audio_mp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/audio_mp2.c
+END
+audio_mp3.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/audio_mp3.c
+END
+audio_tp_def.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/audio_tp_def.c
+END
+dlna.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/dlna.h
+END
+profiles.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/profiles.c
+END
+upnp_dms.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/upnp_dms.c
+END
+image_png.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/image_png.c
+END
+av_tp_def.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/av_tp_def.c
+END
+audio_ac3.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/audio_ac3.c
+END
+image_jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/image_jpeg.c
+END
+av_wmv9.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/av_wmv9.c
+END
+profiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/profiles.h
+END
+av_mpeg4_part10.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/av_mpeg4_part10.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/products_sohoi_platform_v1/!svn/ver/16144/boards/model_qca/apps/nas/media_server/libdlna-0.2.3/src/Makefile
+END
